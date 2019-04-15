@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="twitter:site" content="@karakun" />
+  {%- if page.featuredImage -%}
+    <meta property="og:image" content="{{ site.url }}/assets/featuredImages/{{ page.featuredImage }}.png" />
+  {%- else -%}
+    <meta property="og:image" content="{{ site.url }}/assets/images/raccoon.png" />
+  {%- endif -%}
+
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="manifest" href="/manifest.json">
+
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.webstats.siteId -%}
+    {%- include webstats.html -%}
+  {%- endif -%}
+</head>

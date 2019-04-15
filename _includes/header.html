@@ -1,0 +1,45 @@
+<nav class="navbar" aria-label="main navigation">
+  <div class="container">
+  <div class="navbar-brand">
+    
+    <a class="navbar-item page-title" rel="author" href="{{ "/" | relative_url }}"><span class="text-highlight">Open<span style="color: white;">WebStart</span></span></a>
+    <a role="button" class="navbar-burger" data-target="main-menu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+  </div>
+    <div class="navbar-menu navbar-end" id="main-menu">
+      {% if page.title == my_page.title %}
+        <a class="navbar-item is-active" href="{{ "/" | relative_url }}">Home</a>
+      {% else %}
+        <a class="navbar-item" href="{{ "/" | relative_url }}">Home</a>
+      {% endif %}
+    
+    {% assign sortedPaths = site.pages | sort: 'order'  %}
+    {% for my_page in sortedPaths %}
+      {%- if my_page.hidden != true -%}
+        {%- if my_page.title and my_page.url != "/" and my_page.nav.top != false -%}
+          {% if page.title == my_page.title %}
+            <a class="navbar-item is-active" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% else %}
+            <a class="navbar-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
+    </div>
+  </div>
+</nav>
+{%- assign page_image = page.header.image | default: "/assets/images/default.jpg" -%}
+{%- assign page_image_size = page.header.imageSize | default: "cover" -%}
+{%- assign page_image_x = page.header.x | default: "center" -%}
+{%- assign page_image_y = page.header.y | default: "center" -%}
+{%- assign fallback_header_text = page.title | append: " by Karakun" -%}
+<div class="page-image" style="background-image: url('/assets/images/pageHeaders/{{ page_image }}.png'); background-size: {{ page_image_size }}; background-position-x: {{ page_image_x }}; background-position-y: {{ page_image_y }};">
+  <div>
+    <div class="header-text container">
+      <div>{{ page.header.text | default: fallback_header_text | replace: 'Karakun','<span class="my-karakun">Karakun</span>' }}</div>
+    </div>
+  </div>
+</div>
