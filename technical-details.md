@@ -6,7 +6,7 @@ headerText:
 permalink: /technical-details/
 header:
   image: webstart-2
-  text: TODO
+  text: The functionality of <span class="my-karakun">Open</span>WebStart
 nav:
   bottom: false
 ---
@@ -78,3 +78,5 @@ If you want to use a commercial JDK that is not publically available, you can ev
 
 These are custom configurations that we offer for our customers that have bought commercial support at Karakun. 
 Just what you need? Contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com)!
+
+![rocket]({{ "/assets/images/webstart/rocket.png" | absolute_url }})

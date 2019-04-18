@@ -1,7 +1,7 @@
 ---
 layout: article
 header:
-  image: karakun-header
+  image: webstart-2
   text: Run <span class="my-karakun">Web Start</span> based application after the release of <span class="my-karakun">Java 11</span>
 ---
 
@@ -14,7 +14,7 @@ This is why we decided to create <span class="text-highlight">Open<span>WebStart
 Our replacement will provide the most commonly used features of Java Web Start and the JNLP standard, 
 so that your customers can continue using applications based on Java Web Start and JNLP without any change.
 
-![roadmap]({{ "/assets/images/webstart/divider-2.png" | absolute_url }})
+![divider]({{ "/assets/images/webstart/divider-2.png" | absolute_url }})
 
 For more information about the removal of Java Web Start, have a look at these documents:
 
@@ -50,4 +50,4 @@ Plus, we will run regular tests with your applications to guarantee that your ap
 
 Sounds interesting? Please contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
 
-![roadmap]({{ "/assets/images/webstart/rocket.png" | absolute_url }})
+![rocket]({{ "/assets/images/webstart/rocket.png" | absolute_url }})
