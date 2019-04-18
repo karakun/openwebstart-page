@@ -23,7 +23,9 @@ For more information about the removal of Java Web Start, have a look at these d
 * [Do I need to pay for Java now?](https://dev.karakun.com/java/2018/06/25/java-releases.html)
 
 ### How can I stay informed?
-Want to learn more and stay up-to-date? [Subscribe to our newsletter](/subscribe/)!
+Want to learn more and stay up-to-date?
+
+<a class="button is-medium full-width-button is-primary is-outlined" href="/subscribe/">Subscribe to our newsletter</a>
 
 ### What does OpenWebStart include?
 The main focus of <span class="text-highlight">Open<span>WebStart</span></span> is the execution of JNLP-based applications.

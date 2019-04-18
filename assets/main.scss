@@ -325,6 +325,11 @@ article.post {
             display: block;
             width: 100%;
         }
+        > .full-width-button {
+            margin: 0 auto;
+            display: block;
+            width: 80%;
+        }
     }
     .embed-container {
         > iframe {
