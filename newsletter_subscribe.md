@@ -44,7 +44,7 @@ nav:
 <div class="mc-field-group input-group" style="display: none;">
     <strong>Interests </strong>
     <ul><li><input type="checkbox" value="1" name="group[23953][1]" id="mce-group[23953]-23953-0" checked><label for="mce-group[23953]-23953-0">General</label></li>
-<li><input type="checkbox" value="2" name="group[23953][2]" id="mce-group[23953]-23953-1"><label for="mce-group[23953]-23953-1">Open WebStart</label></li>
+<li><input type="checkbox" value="2" name="group[23953][2]" id="mce-group[23953]-23953-1" checked><label for="mce-group[23953]-23953-1">Open WebStart</label></li>
 </ul>
 </div>
 

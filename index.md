@@ -8,7 +8,7 @@ header:
 ## Java Web Start is dead. Long live Java Web Start!
 Java Web Start (JWS) was deprecated in Java 9, and starting with Java 11, Oracle removed JWS from their JDK distributions.
 This means that clients that have the latest version of Java installed can no longer use JWS-based applications.
-And since public support of Java 8 has ended in Q4/2019, companies no longer get any updates and security fixes for Java Web Start.
+And since public support of Java 8 has ended in Q2/2019, companies no longer get any updates and security fixes for Java Web Start.
 
 This is why we decided to create <span class="text-highlight">Open<span>WebStart</span></span>, an open source reimplementation of the Java Web Start technology.
 Our replacement will provide the most commonly used features of Java Web Start and the JNLP standard, 
