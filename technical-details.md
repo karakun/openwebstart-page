@@ -22,15 +22,15 @@ Read on for all the technical details:
 ### How do I install and manage OpenWebStart?
 <span class="text-highlight">Open<span>WebStart</span></span> will come in two different versions:
 
-- An installer with auto-update functionality
-- An executable bundle
+- An interactive installer with auto-update functionality
+- An unattended installer for automated roll-outs
 
-If you use Web Start for several small customers or on your own, we recommend using the __installer__.
+If you use Web Start for several small customers or on your own, we recommend using the __interactive installer__.
 Our native installer will set up everything on your Windows, Mac, or Linux system so that <span class="text-highlight">Open<span>WebStart</span></span> is immediately ready to use.
 <span class="text-highlight">Open<span>WebStart</span></span> checks for updates automatically, and the Updater component keeps the tool current without the need for any user interaction.
 
-If you or your customers are companies with IT departments of their own, we recommend the __executable bundle__ to roll out <span class="text-highlight">Open<span>WebStart</span></span> on multiple client machines.
-In this executable, the auto-update functionality is inactive; your IT department is free to plan and handle rollouts of new versions based on your internal workflows.
+If you or your customers are companies with IT departments of their own, we recommend an __unattended installation__ to roll out <span class="text-highlight">Open<span>WebStart</span></span> on multiple client machines.
+In this scenario, the auto-update functionality is inactive; your IT department is free to plan and handle rollouts of new versions based on your internal workflows.
 
 ![rollout]({{ "/assets/images/webstart/rollout.png" | absolute_url }})
 
@@ -48,9 +48,6 @@ Nothing will change from the point of view of your users. <span class="text-high
 The included App Manager will manage all JNLP-based application that <span class="text-highlight">Open<span>WebStart</span></span> has downloaded and started. The App Manager checks regularly whether updates are available for its managed applications, and downloads updates automatically.
 
 ### Can I manage JDK/JRE versions?
-One feature that has always been missing from Oracle Web Start was JVM (Java Virtual Machine) version management.
-Up to now, when deploying a JNLP-based application, a developer had no way of defining the Java version to run the application.
-
 <span class="text-highlight">Open<span>WebStart</span></span> from Karakun will provide an integrated JVM Manager.
 The JVM Manager downloads Java versions from a dedicated server, and manages versions internally. With <span class="text-highlight">Open<span>WebStart</span></span>, it will be easy for developers to specify the Java version to run JNLP-based applications.
 
