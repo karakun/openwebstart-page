@@ -1,7 +1,6 @@
 ---
 layout: article
 header:
-  image: webstart-2
   text: Run <span class="my-karakun">Web Start</span> based application after the release of <span class="my-karakun">Java 11</span>
 ---
 

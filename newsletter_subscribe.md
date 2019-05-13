@@ -5,7 +5,6 @@ order: '16'
 headerText:
 permalink: /subscribe/
 header:
-  image: webstart-2
   text: Stay <span class="my-karakun">up to date</span> what's up at <span class="my-karakun">Karakun</span>
 nav:
   bottom: true

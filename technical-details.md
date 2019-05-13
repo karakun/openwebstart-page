@@ -5,7 +5,6 @@ order: '16'
 headerText:
 permalink: /technical-details/
 header:
-  image: webstart-2
   text: The functionality of <span class="my-karakun">Open</span>WebStart
 nav:
   bottom: false
