@@ -45,7 +45,9 @@
   background-position-y: {{ page_image_y }};
 }
 @media screen and (max-width: 768px) {
-  background-image: url('/assets/images/pageHeaders/{{ page_image_mobile }}.png');
+  .page-image {
+    background-image: url('/assets/images/pageHeaders/{{ page_image_mobile }}.png');
+  }
 }
 </style>
 <div class="page-image">
