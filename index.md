@@ -13,13 +13,13 @@ This is why we decided to create <span class="text-highlight">Open<span>WebStart
 Our replacement will provide the most commonly used features of Java Web Start and the JNLP standard, 
 so that your customers can continue using applications based on Java Web Start and JNLP without any change.
 
-![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
-
 For more information about the removal of Java Web Start, have a look at these documents:
 
 * [Official Java desktop roadmap from Oracle](https://www.oracle.com/technetwork/java/javase/javaclientroadmapupdate2018mar-4414431.pdf)
 * [DZone article about the consequences for Java desktop applications](https://dzone.com/articles/what-the-future-java-releases-will-mean-for-legacy)
 * [Do I need to pay for Java now?](https://dev.karakun.com/java/2018/06/25/java-releases.html)
+
+![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
 
 ### How can I stay informed?
 Want to learn more and stay up-to-date?
