@@ -24,14 +24,14 @@ For more information about the removal of Java Web Start, have a look at these d
 ### How can I stay informed?
 Want to learn more and stay up-to-date?
 
-<a class="button is-medium full-width-button is-primary is-outlined" href="/subscribe/">Subscribe to our newsletter</a>
+<a class="button is-medium full-width-button is-primary" href="/subscribe/">Subscribe to our newsletter</a>
 
 ### What does OpenWebStart include?
 The main focus of <span class="text-highlight">Open<span>WebStart</span></span> is the execution of JNLP-based applications.
 Additionally, the tool contains four modules that simplify your Web Start workflows
 and let you configure <span class="text-highlight">Open<span>WebStart</span></span> to suit your needs:
 
-- The **App Manager** manages the versions of any JNLP-based application that was executed by <span class="text-highlight">Open<span>WebStart</span></span>.
+- The **App Manager** manages the versions of any JNLP-based application that is executed by <span class="text-highlight">Open<span>WebStart</span></span>.
 - The **JVM Manager** manages Java versions and Java updates on the client.
 - The **Control Panel** provides a graphical user interface to configure <span class="text-highlight">Open<span>WebStart</span></span>.
 - The **Updater** downloads and installs new versions of <span class="text-highlight">Open<span>WebStart</span></span>.
