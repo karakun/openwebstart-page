@@ -14,7 +14,7 @@ This is why we decided to create <span class="text-highlight">Open<span>WebStart
 Our replacement will provide the most commonly used features of Java Web Start and the JNLP standard, 
 so that your customers can continue using applications based on Java Web Start and JNLP without any change.
 
-![divider]({{ "/assets/images/webstart/divider-2.png" | absolute_url }})
+![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
 
 For more information about the removal of Java Web Start, have a look at these documents:
 
@@ -44,7 +44,7 @@ Our goal is to have beta tests and a release candidate ready in Q3/2019.
 
 The following diagram shows the roadmap:
 
-![roadmap]({{ "/assets/images/webstart/roadmap-karakun.png" | absolute_url }})
+![roadmap]({{ "/assets/images/webstart/roadmap-karakun.png" | relative_url }})
 
 ### Interested in becoming a sponsor?
 We are still looking for sponsors. As a sponsor, you can influence the list of features that we are going to implement.
@@ -52,4 +52,4 @@ Plus, we will run regular tests with your applications to guarantee that your ap
 
 Sounds interesting? Please contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
 
-![rocket]({{ "/assets/images/webstart/rocket.png" | absolute_url }})
+![rocket]({{ "/assets/images/webstart/rocket.png" | relative_url }})

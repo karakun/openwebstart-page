@@ -32,7 +32,7 @@ Our native installer will set up everything on your Windows, Mac, or Linux syste
 If you or your customers are companies with IT departments of their own, we recommend an __unattended installation__ to roll out <span class="text-highlight">Open<span>WebStart</span></span> on multiple client machines.
 In this scenario, the auto-update functionality is inactive; your IT department is free to plan and handle rollouts of new versions based on your internal workflows.
 
-![rollout]({{ "/assets/images/webstart/rollout.png" | absolute_url }})
+![rollout]({{ "/assets/images/webstart/rollout.png" | relative_url }})
 
 
 ### Which JNLP features will be supported?
@@ -43,7 +43,7 @@ Nothing will change from the point of view of your users. <span class="text-high
 1. <span class="text-highlight">Open<span>WebStart</span></span> parses the JNLP file, downloads all required resources (JARs, native libraries and images), and stores them in a cache.
 1. When all resources are downloaded, the application starts.
 
-![app manager]({{ "/assets/images/webstart/manage-applications.png" | absolute_url }})
+![app manager]({{ "/assets/images/webstart/manage-applications.png" | relative_url }})
 
 The included App Manager will manage all JNLP-based application that <span class="text-highlight">Open<span>WebStart</span></span> has downloaded and started. The App Manager checks regularly whether updates are available for its managed applications, and downloads updates automatically.
 
@@ -51,11 +51,11 @@ The included App Manager will manage all JNLP-based application that <span class
 <span class="text-highlight">Open<span>WebStart</span></span> from Karakun will provide an integrated JVM Manager.
 The JVM Manager downloads Java versions from a dedicated server, and manages versions internally. With <span class="text-highlight">Open<span>WebStart</span></span>, it will be easy for developers to specify the Java version to run JNLP-based applications.
 
-![JVM management]({{ "/assets/images/webstart/manage-java-version.png" | absolute_url }})
+![JVM management]({{ "/assets/images/webstart/manage-java-version.png" | relative_url }})
 
 By default, <span class="text-highlight">Open<span>WebStart</span></span> will download an OpenJDK-based Java version from a dedicated server. You can also configure servers manually in the <span class="text-highlight">Open<span>WebStart</span></span> Control Panel.
 
-![download JVM]({{ "/assets/images/webstart/download-jvm.png" | absolute_url }})
+![download JVM]({{ "/assets/images/webstart/download-jvm.png" | relative_url }})
 
 ### How do I configure OpenWebStart?
 The well-known Java Control Panel that was installed together with Oracle Java was part of Web Start.
@@ -76,4 +76,4 @@ If you want to use a commercial JDK that is not publically available, you can ev
 These are custom configurations that we offer for our customers that have bought commercial support at Karakun. 
 Just what you need? Contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com)!
 
-![rocket]({{ "/assets/images/webstart/rocket.png" | absolute_url }})
+![rocket]({{ "/assets/images/webstart/rocket.png" | relative_url }})
