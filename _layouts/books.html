@@ -5,7 +5,7 @@ layout: page
 {% for book in site.data.books %}
   {% assign loopindex = forloop.index | modulo: 2 %}
   {% if loopindex == 1 %}
-    <div class="columns">
+    <div class="columns is-variable is-0-mobile">
   {% endif %}
       <article class="book column content {% unless forloop.index == size and loopindex == 1 %} is-half {% endunless %}">
       <h3 class="has-text-primary">{{ book.name }}</h3>

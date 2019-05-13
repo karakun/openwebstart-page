@@ -5,7 +5,7 @@ layout: page
 {% for post in site.posts %}
   {% assign loopindex = forloop.index | modulo: 2 %}
   {% if loopindex == 1 %}
-    <div class="columns">
+    <div class="columns is-variable is-0-mobile">
   {% endif %}
       <article class="talk column content {% unless forloop.index == size and loopindex == 1 %} is-half {% endunless %}">
         {% assign author = site.people | where:'name', post.author | first %}

@@ -100,6 +100,9 @@ body {
 
 .page-wrapper {
     flex: 1;
+    @include mobile {
+        padding: 0 0.5rem;
+    }
 }
 
 .navbar-brand {
@@ -272,6 +275,9 @@ p {
     margin-bottom: 1em;
     display: flex;
     align-items: stretch;
+    @include mobile {
+        padding: 0 0.5rem;
+    }
     > div {
         display: flex;
         align-items: stretch;

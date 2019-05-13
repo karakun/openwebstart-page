@@ -15,7 +15,7 @@ layout: page
     {% assign loopindex = loopcount | modulo: 2 %}
 
     {% if loopindex == 1 %}
-      <div class="columns">
+      <div class="columns is-variable is-0-mobile">
     {% endif %}
         <article class="talk column content {% unless loopcount == size and loopindex == 1 %} is-half {% endunless %}">
           {% assign author = site.people | where:'name', talk.author | first %}
