@@ -21,7 +21,7 @@ nav:
 1. Choose a language and click OK. 
 1. In the Open Web Start Setup Wizard, click Next.
 1. Browse to the directory where to install Open Web Start, and click Next. 
-   Default: `C:\Program Files\OpenWebStart`
+   <br />Default: `C:\Program Files\OpenWebStart`
 1. Enable the checkbox to associate the .JNLP suffix with OpenWebStart, and click Next.
 1. Please wait while Setup installs Open Web Start on your computer.
 1. Click Finish.
@@ -31,15 +31,15 @@ nav:
 1. Go to http://karakun and download OpenWebStart_macos_1_0.dmg.
 1. Open the OpenWebStart disk image to mount it. 
 1. Run the installer app.
-   Note: If you get a message that this app is from an unidentified developer:
-   1. Click OK. 
-   1. Choose Apple menu > System Preferences > Security & Privacy and go to the General tab. 
-   1. Unlock the dialog by entering your password.
-   1. Click “Open Anyway” to grant the installer an exception. 
+    <br />Note: If you get a message that this app is from an unidentified developer:
+    1. Click OK. 
+    1. Choose Apple menu > System Preferences > Security & Privacy and go to the General tab. 
+    1. Unlock the dialog by entering your password.
+    1. Click “Open Anyway” to grant the installer an exception. 
 1. Choose a language and click OK. 
 1. In the Open Web Start Setup Wizard, click Next.
 1. Browse to the directory where to install Open Web Start, and click Next. 
-   Default: `/Applications/Open Web Start`
+    <br />Default: `/Applications/Open Web Start`
 1. Enable the checkbox to associate the .JNLP suffix with OpenWebStart, and click Next.
 1. Please wait while Setup installs Open Web Start on your computer.
 1. Click Finish.
@@ -47,8 +47,8 @@ nav:
 ## How to Install <span class="my-karakun">Open</span>WebStart on Linux
 
 1. Go to http://karakun and download the linux installer:
-  * For Debian Linux, download OpenWebStart_linux_1_0-SNAPSHOT.deb
-  * For other Linux distributions, download OpenWebStart_linux_1_0-SNAPSHOT.sh
+   * For Debian Linux, download OpenWebStart_linux_1_0-SNAPSHOT.deb
+   * For other Linux distributions, download OpenWebStart_linux_1_0-SNAPSHOT.sh
 1. Run the installer from the terminal: 
    * For Debian: `sudo dpkg -i OpenWebStart_linux_1_0.deb`
    * For others: `sudo chmod u+x ./OpenWebStart_linux_1_0.sh; sudo ./OpenWebStart_linux_1_0.sh`
