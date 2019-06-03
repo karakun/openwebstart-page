@@ -31,8 +31,7 @@ nav:
 1. Go to http://karakun and download OpenWebStart_macos_1_0.dmg.
 1. Open the OpenWebStart disk image to mount it. 
 1. Run the installer app.
-    <br />Note: If you get a message that this app is from an unidentified developer:
-    1. Click OK. 
+    <br />Note: If you get a message that this app is from an unidentified developer, click OK.
     1. Choose Apple menu > System Preferences > Security & Privacy and go to the General tab. 
     1. Unlock the dialog by entering your password.
     1. Click “Open Anyway” to grant the installer an exception. 
@@ -56,7 +55,7 @@ nav:
 1. Select a language and click OK. 
 1. In the Open Web Start Setup Wizard, click Next.
 1. Browse to the directory where to install Open Web Start, and click Next. 
-   Default: /opt/openwebstart
+   <br />Default: `/opt/openwebstart`
 1. Enable the checkbox to associate the .JNLP suffix with OpenWebStart, and click Next.
 1. Please wait while Setup installs Open Web Start on your computer.
 1. Click Finish.
