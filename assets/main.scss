@@ -552,7 +552,22 @@ a {
     min-width: 12em;
     max-width: 12em;
     width: 100%;
-} 
+}
+
+.sponsors-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsors-logo {
+    padding: 2em 4em;
+
+    min-width: 12em;
+    max-width: 24em;
+    width: 100%;
+}
 
 .training-logo {
     padding-top: 1em;
