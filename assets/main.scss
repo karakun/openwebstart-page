@@ -554,17 +554,17 @@ a {
     width: 100%;
 }
 
-.sponsors-box {
+.spo-logo-box {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
 
-.sponsors-logo {
+.spo-logo-box .spo-logo {
     padding: 2em 4em;
 
-    min-width: 12em;
+    min-width: 24em;
     max-width: 24em;
     width: 100%;
 }
