@@ -11,29 +11,15 @@ nav:
 ---
 
 ## Downloads
-Soon you will find the latest downloads of <span class="text-highlight">Open<span>WebStart</span></span> here.
+Here you can find installers of the latest versions of <span class="text-highlight">Open<span>WebStart</span></span>.
 
 
 ### Stable Builds
-<span class="text-highlight">Open<span>WebStart</span></span> is still in alpha state, therefore "stable" has to be taken with a grain of salt.
+<span class="text-highlight">Open<span>WebStart</span></span> is still in alpha, therefore "stable" has to be taken with a grain of salt.
 Also some features are still missing.
 
 #### Windows
-_Coming soon_
-
-#### Mac
-_Coming soon_
-
-#### Linux
-_Coming soon_
-
-
-### Nightly Builds
-If you like living on the edge, this is the right place for you.
-Nightly builds contain the latest fixes and features, but they may also contain the latest bugs and regressions.
-
-#### Windows
-_Coming soon_
+[OpenWebStart_windows-x64_0_1_0-alpha.zip](https://github.com/karakun/OpenWebStart/releases/download/untagged-96e67d5ae181073f85b8/OpenWebStart_windows-x64_0_1_0-alpha.zip)
 
 #### Mac
 _Coming soon_
