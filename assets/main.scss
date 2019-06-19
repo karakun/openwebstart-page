@@ -600,3 +600,18 @@ fieldset label {
     color: black;
     font-weight: normal;
 }
+
+.feature-table {
+    .feature-done {
+        background-color: #e3fcef;
+    }
+    .feature-missing {
+        background-color: #ffebe5;
+    }
+    .feature-partially {
+        background-color: #fffae5;
+    }
+    .feature-removed {
+      text-decoration: line-through;
+    }
+}
