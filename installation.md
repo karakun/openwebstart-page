@@ -12,7 +12,7 @@ nav:
 
 # How to install <span class="my-karakun">Open</span>WebStart
 
-<span class="my-karakun">Open</span>WebStart comes with a user-friendly installer for Windows, macOS, and Linux. Choose a "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release, or choose a nightly build to try out the latest untested features.
+<span class="my-karakun">Open</span>WebStart alpha comes with a user-friendly installer for Windows. Choose a "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release, or choose a nightly build to try out the latest untested features.
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Microsoft Windows
 
@@ -28,7 +28,7 @@ nav:
 
 # How to Use <span class="my-karakun">Open</span>WebStart
 
-<span class="my-karakun">Open</span>WebStart installs an executable called `javaws` that can run WebStart files with .JNLP suffix. During the development phase, the <span class="my-karakun">Open</span>WebStart installer will not change file associations of your existing Oracle `javaws` executable, so you can use both.
+<span class="my-karakun">Open</span>WebStart installs an executable called `javaws` that can run Java Web Start apps (.JNLP suffix). During the development phase, the <span class="my-karakun">Open</span>WebStart installer will not change file associations of any existing Oracle `javaws` executable, so you can use both.
 
 To run JNLP applications with <span class="my-karakun">Open</span>WebStart:
 
@@ -38,7 +38,7 @@ To run JNLP applications with <span class="my-karakun">Open</span>WebStart:
 1. Browse to <span class="my-karakun">Open</span>WebStart at `C:\Program Files\OpenWebStart\javaws`.
 1. Click **Open** to associate this JNLP file with <span class="my-karakun">Open</span>WebStart.
 
-Alternatively, you can run your Java Web Start applications (.jnlp file suffix) with `javaws` in the Terminal.
+Alternatively, you can run your Java Web Start apps (.JNLP suffix) with `javaws` in the Terminal:
 Example: `C:\Program Files\OpenWebStart\javaws -nosecurity -Xnofork -jnlp myApp.jnlp`
 
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
