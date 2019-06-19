@@ -19,7 +19,7 @@ Here you can find installers of the latest versions of <span class="text-highlig
 Also some features are still missing.
 
 #### Windows
-_Coming soon_
+[OpenWebStart_windows-x64_0_1_0-alpha.zip](https://github.com/karakun/OpenWebStart/releases/download/v0.1.0-alpha/OpenWebStart_windows-x64_0_1_0-alpha.zip)
 
 #### Mac
 _Coming soon_
