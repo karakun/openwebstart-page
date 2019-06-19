@@ -30,7 +30,7 @@ nav:
 
 <span class="my-karakun">Open</span>WebStart installs an executable called `javaws` that can run Java Web Start apps (.JNLP suffix). During the development phase, the <span class="my-karakun">Open</span>WebStart installer will not change file associations of any existing Oracle `javaws` executable, so you can use both.
 
-To run JNLP applications with <span class="my-karakun">Open</span>WebStart:
+To run .JNLP applications with <span class="my-karakun">Open</span>WebStart in Windows Explorer:
 
 1. Right-click the JNLP app and select **Open With -&gt; Choose Another App**.
 1. Click **More Apps** and scroll down.
@@ -38,7 +38,7 @@ To run JNLP applications with <span class="my-karakun">Open</span>WebStart:
 1. Browse to <span class="my-karakun">Open</span>WebStart at `C:\Program Files\OpenWebStart\javaws`.
 1. Click **Open** to associate this JNLP file with <span class="my-karakun">Open</span>WebStart.
 
-Alternatively, you can run your Java Web Start apps (.JNLP suffix) with `javaws` in the Terminal:
+Alternatively, you can run .JNLP applications with `javaws` in the Terminal:
 Example: `C:\Program Files\OpenWebStart\javaws -nosecurity -Xnofork -jnlp myApp.jnlp`
 
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
