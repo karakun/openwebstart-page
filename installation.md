@@ -12,11 +12,11 @@ nav:
 
 # How to install <span class="my-karakun">Open</span>WebStart
 
-<span class="my-karakun">Open</span>WebStart alpha comes with a user-friendly installer for Windows. Choose a "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release, or choose a nightly build to try out the latest untested features.
+<span class="my-karakun">Open</span>WebStart alpha comes with a user-friendly installer for Windows. Download the "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release now!
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Microsoft Windows
 
-1. Go to https://openwebstart.com/download and download `OpenWebStart_windows-x64_0_1_0-SNAPSHOT.exe`.
+1. Go to https://openwebstart.com/download and download `OpenWebStart_windows-x64_0_1_0-alpha.zip`.
 1. Run the installer.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
