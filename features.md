@@ -10,7 +10,8 @@ nav:
 ---
 
 ## Features
-This is the list of features of <span class="text-highlight">Open<span>WebStart</span></span> that we are going to implement, with their priority and status.
+This is the list of features of <span class="text-highlight">Open<span>WebStart</span></span> that we are going to implement, with their priority and their current state.
+You can download the current version in the [download area](/download).
 
 <table class="feature-table">
 <tr>

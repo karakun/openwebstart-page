@@ -16,7 +16,7 @@ nav:
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Microsoft Windows
 
-1. Go to https://openwebstart.com/download and download `OpenWebStart_windows-x64_0_1_0-alpha.zip`.
+1. Go to the [download area](/download) and download `OpenWebStart_windows-x64_0_1_0-alpha.zip`.
 1. Run the installer.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
