@@ -39,7 +39,7 @@ To run .JNLP applications with <span class="my-karakun">Open</span>WebStart in W
 1. Click **Open** to associate this JNLP file with <span class="my-karakun">Open</span>WebStart.
 
 Alternatively, you can run .JNLP applications with `javaws` in the Terminal:
-Example: `C:\Program Files\OpenWebStart\javaws -nosecurity -Xnofork -jnlp myApp.jnlp`
+Example: `C:\Program Files\OpenWebStart\javaws -Xnofork -jnlp myApp.jnlp`
 
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
 
