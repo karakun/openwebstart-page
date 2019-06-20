@@ -90,7 +90,7 @@ You can download the current version in the [download area](/download).
     <td>INST-10</td>
     <td>Removed</td>
     <td>1</td>
-    <td>This requirement was a removed.</td>
+    <td>This requirement has been removed.</td>
 </tr>
 <tr class="feature-partially">
     <td>INST-11</td>
@@ -198,7 +198,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 4.3
     </td>
 </tr>
-<tr class="feature-done">
+<tr class="feature-partially">
     <td>AM-8</td>
     <td>Lazy Download of Resources</td>
     <td>2</td>
@@ -596,3 +596,15 @@ You can download the current version in the [download area](/download).
 </tr>
 
 </table>
+
+<p/>
+
+Legend: 
+<table class="legend-table">
+<tr>
+    <td class="feature-done">Feature done</td>
+    <td class="feature-partially">Feature partially done</td>
+    <td class="feature-missing">Feature missing</td>
+</tr>
+</table>
+
