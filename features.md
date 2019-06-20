@@ -15,7 +15,7 @@ You can download the current version in the [download area](/download).
 
 <table class="feature-table">
 <tr>
-    <th>ID</th>
+    <th>Identifier</th>
     <th>Feature</th>
     <th>Priority</th>
     <th>Description</th>
