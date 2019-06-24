@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Technical Details
-order: '16'
+order: '10'
 headerText:
 permalink: /technical-details/
 header:

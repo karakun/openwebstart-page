@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Features
-order: '19'
+order: '12'
 permalink: /feature-table/
 header:
   text: <span class="my-karakun">Open</span>WebStart Features

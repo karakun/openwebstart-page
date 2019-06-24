@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Download
-order: '18'
+order: '15'
 headerText:
 permalink: /download/
 header:
