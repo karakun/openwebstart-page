@@ -67,8 +67,10 @@ nav:
 To run .JNLP applications with `javaws` from the command line or terminal:
   * Windows Command Line example:
   <br />`C:\Program Files\OpenWebStart\javaws -nosecurity -Xnofork -jnlp myApp.jnlp -console`
-  * macOS/Linux Terminal example:
+  * macOS Terminal example:
   <br /> `/Applications/Open Web Start/javaws -nosecurity -Xnofork -jnlp myApp.jnlp -console`
+  * Linux Terminal example:
+  <br /> `/opt/openwebstart/javaws -nosecurity -Xnofork -jnlp myApp.jnlp -console`
 
 To run .JNLP applications with <span class="my-karakun">Open</span>WebStart from Windows Explorer:
 
