@@ -31,13 +31,13 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>Native installer for Windows</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>INST-2</td>
     <td>Mac installer</td>
     <td>1</td>
     <td>Native installer for Mac</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>INST-3</td>
     <td>Linux installer</td>
     <td>1</td>
@@ -61,7 +61,7 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>One needs to be able to run the installer in unattended mode</td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>INST-7</td>
     <td>File extension and MIME type registration</td>
     <td>1</td>
@@ -100,7 +100,7 @@ You can download the current version in the [download area](/download).
         All configuration properties can be defined in an external file to define unmodifiable values. By defining properties in such a file the user can not modify the properties in the configuration UI of OpenWebStart.
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>INST-12</td>
     <td>Custom Mime-Type</td>
     <td>1</td>
@@ -256,7 +256,7 @@ You can download the current version in the [download area](/download).
         The details on how the integration can be established depend on the OS.
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-partially">
     <td>AM-14</td>
     <td>Installation on Linux</td>
     <td>2</td>
@@ -425,7 +425,7 @@ You can download the current version in the [download area](/download).
         Implementation of the formal syntax of the version-ids and version strings according to JSR-56, Appendix A
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JNLP-3</td>
     <td>Component Extension Support</td>
     <td>1</td>
