@@ -62,7 +62,7 @@ nav:
 
 To run .JNLP applications with <span class="my-karakun">Open</span>WebStart, double-click to open them as usual. 
 
-To open `myApp.jnlp` with <span class="my-karakun">Open</span>WebStart from the command line or terminal:
+Alternatively, you can run any webstart app `myApp.jnlp` with <span class="my-karakun">Open</span>WebStart from the command line or terminal:
 
   * Windows Command Line
   <br />`C:\Program Files\OpenWebStart\javaws -jnlp myApp.jnlp -console`
