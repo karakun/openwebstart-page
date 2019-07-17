@@ -46,7 +46,7 @@ nav:
 ## How to Install <span class="my-karakun">Open</span>WebStart on macOS
 
 1. Go to the [download area](/download) and download `OpenWebStart_macos_0_2_x.dmg`.
-1. Open the OpenWebStart disk image to mount it. 
+1. Open the OpenWebStart disk image (DMG file) to mount it. 
 1. Run the `Open Web Start Installer.app`.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
