@@ -48,10 +48,6 @@ nav:
 1. Go to the [download area](/download) and download `OpenWebStart_macos_0_2_x.dmg`.
 1. Open the OpenWebStart disk image to mount it. 
 1. Run the `Open Web Start Installer.app`.
-   <br />Note: If you get a message that this app is from an unidentified developer, click **OK**.
-   1. Choose **Apple menu > System Preferences**, click **Security & Privacy**, and go to the **General** tab. 
-   1. Click the lock and enter your password.
-   1. Click “Open Anyway” to allow the <span class="my-karakun">Open</span>WebStart installer to run. 
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
 1. Browse to the directory where to install <span class="my-karakun">Open</span>WebStart, and click **Next**. 
