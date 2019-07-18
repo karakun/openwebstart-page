@@ -14,6 +14,8 @@ nav:
 
 <span class="my-karakun">Open</span>WebStart 0.2.0 comes with a user-friendly installer. Download the "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release now!
 
+<span class="my-karakun">Open</span>WebStart is released under the [GPL mit Classpath Exception](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) license.
+
 ## How to Install <span class="my-karakun">Open</span>WebStart on Microsoft Windows
 
 1. Go to the [download area](/download) and download `OpenWebStart_windows-x64_0_2_x.zip`.
