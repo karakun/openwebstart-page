@@ -42,8 +42,8 @@ and let you configure <span class="text-highlight">Open<span>WebStart</span></sp
 - The **Control Panel** provides a graphical user interface to configure <span class="text-highlight">Open<span>WebStart</span></span>.
 - The **Updater** downloads and installs new versions of <span class="text-highlight">Open<span>WebStart</span></span>.
 
-Want to dig deeper? [Visit our source repository.](https://github.com/karakun/openwebstart)
-
+You’re a developer and want to take a closer look at our source repo? [Visit our GitHub](https://github.com/karakun/openwebstart) and let us know what you think.
+ 
 ### OpenWebStart Roadmap
 We have been able to secure a good part of the required funding, and 
 we and our sponsors are currently discussing the list of features that we are going to implement.
