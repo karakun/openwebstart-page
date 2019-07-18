@@ -11,9 +11,7 @@ nav:
 ---
 
 ## Technical details
-<span class="text-highlight">Open<span>WebStart</span></span> will be based on the JNLP-specification 
-defined in [JSR-56](https://www.jcp.org/en/jsr/detail?id=56). It will implement the most commonly used features of Java Web Start and
-it will be able to handle any typical JWS-based application. We plan to support all future versions of Java, starting with Java 11. 
+<span class="text-highlight">Open<span>WebStart</span></span> is based on [Iced-Tea-Web](https://github.com/AdoptOpenJDK/IcedTea-Web) and the JNLP-specification defined in [JSR-56](https://www.jcp.org/en/jsr/detail?id=56). It will implement the most commonly used features of Java Web Start and it will be able to handle any typical JWS-based application. We plan to support all future versions of Java, starting with Java 11. 
 In addition to Java 11, the first release of <span class="text-highlight">Open<span>WebStart</span></span> will also support Java 8.
 
 Read on for all the technical details:
@@ -30,6 +28,8 @@ Our native installer will set up everything on your Windows, Mac, or Linux syste
 
 If you or your customers are companies with IT departments of their own, we recommend an __unattended installation__ to roll out <span class="text-highlight">Open<span>WebStart</span></span> on multiple client machines.
 In this scenario, the auto-update functionality is inactive; your IT department is free to plan and handle rollouts of new versions based on your internal workflows.
+
+For more information about available installers, see the [Download](/download) page.
 
 ![rollout]({{ "/assets/images/webstart/rollout.png" | relative_url }})
 
@@ -62,6 +62,10 @@ When Web Start is removed from Oracle Java, we'll also lose the Control Panel.
 
 This is why <span class="text-highlight">Open<span>WebStart</span></span> comes with its own Control Panel: 
 The new Control Panel will, among other things, let you configure workflows to start JNLP-based applications by hand.
+
+### Under which license does <span class="text-highlight">Open<span>WebStart</span></span> come?
+
+<span class="text-highlight">Open<span>WebStart</span></span> is released under the GPL mit Classpath Exception. For more information, read the full [license](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) here.
 
 ### Can I get a customer-specific build?
 The free-to-use <span class="text-highlight">Open<span>WebStart</span></span> builds use the default configuration described on this page.
