@@ -65,7 +65,7 @@ The new Control Panel will, among other things, let you configure workflows to s
 
 ### Under which license does <span class="text-highlight">Open<span>WebStart</span></span> come?
 
-<span class="text-highlight">Open<span>WebStart</span></span> is released under the GPL mit Classpath Exception. For more information, read the full [license](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) here.
+<span class="text-highlight">Open<span>WebStart</span></span> is released under the GPL with Classpath Exception. For more information, read the full [license](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) here.
 
 ### Can I get a customer-specific build?
 The free-to-use <span class="text-highlight">Open<span>WebStart</span></span> builds use the default configuration described on this page.
