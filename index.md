@@ -21,8 +21,14 @@ For more information about the removal of Java Web Start, have a look at these d
 
 ![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
 
-### How can I stay informed?
-Want to learn more and stay up-to-date?
+### Have your say - become a sponsor!
+As a sponsor, you can influence the list of features we are going to implement, and issues reported by sponsors get the highest priority. 
+Plus, we will run regular tests with your applications to guarantee that your applications will work with <span class="text-highlight">Open<span>WebStart</span></span>. 
+
+You want to be where the action is? We are still looking for sponsors. Please contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
+
+### We keep you in the loop!
+Want to learn more and stay up-to-date with the project?
 
 <a class="button is-medium full-width-button is-primary" href="/subscribe/">Subscribe to our newsletter</a>
 
@@ -36,6 +42,8 @@ and let you configure <span class="text-highlight">Open<span>WebStart</span></sp
 - The **Control Panel** provides a graphical user interface to configure <span class="text-highlight">Open<span>WebStart</span></span>.
 - The **Updater** downloads and installs new versions of <span class="text-highlight">Open<span>WebStart</span></span>.
 
+You’re a developer and want to take a closer look at our source repo? [Visit our GitHub](https://github.com/karakun/openwebstart) and let us know what you think.
+ 
 ### OpenWebStart Roadmap
 We have been able to secure a good part of the required funding, and 
 we and our sponsors are currently discussing the list of features that we are going to implement.
@@ -44,11 +52,5 @@ Our goal is to have beta tests and a release candidate ready in Q3/2019.
 The following diagram shows the roadmap:
 
 ![roadmap]({{ "/assets/images/webstart/roadmap-karakun.png" | relative_url }})
-
-### Interested in becoming a sponsor?
-We are still looking for sponsors. As a sponsor, you can influence the list of features that we are going to implement.
-Plus, we will run regular tests with your applications to guarantee that your applications will work with <span class="text-highlight">Open<span>WebStart</span></span>.
-
-Sounds interesting? Please contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
 
 ![rocket]({{ "/assets/images/webstart/rocket.png" | relative_url }})
