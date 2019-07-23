@@ -29,3 +29,6 @@ In the [feature-table](/feature-table) you can find the full list of planned fea
 
 #### Linux
 [OpenWebStart_linux_0_2_0.deb](https://github.com/karakun/OpenWebStart/releases/download/v0.2.0/OpenWebStart_linux_0_2_0.deb)
+
+#### Unix
+[OpenWebStart_unix_0_2_0.sh](https://github.com/karakun/OpenWebStart/releases/download/v0.2.0/OpenWebStart_unix_0_2_0.sh)
