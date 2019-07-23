@@ -20,6 +20,8 @@ nav:
 
 <a href="https://www.burkhalter.ch/"><img class="spo-logo" src="/assets/images/organisations/burkhalter.svg" alt="Burkhalter Logo"></a>
 
+<a href="https://www.daimler.com/"><img class="spo-logo" src="/assets/images/organisations/Daimler_Logotype.png" alt="Daimler Logo"></a>
+
 <a href="https://www.lvm.de/"><img class="spo-logo" src="/assets/images/organisations/lvm.svg" alt="LVM Logo"></a>
 
 <a href="https://www.ej-technologies.com/products/install4j/overview.html"><img class="spo-logo" src="/assets/images/organisations/install4j.png" alt="Install4J Logo"></a>

@@ -198,7 +198,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 4.3
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>AM-8</td>
     <td>Lazy Download of Resources</td>
     <td>2</td>
@@ -256,7 +256,7 @@ You can download the current version in the [download area](/download).
         The details on how the integration can be established depend on the OS.
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>AM-14</td>
     <td>Installation on Linux</td>
     <td>2</td>
@@ -315,7 +315,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 3.7
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>AM-19</td>
     <td>Auto-cleanup</td>
     <td>2</td>
@@ -327,7 +327,7 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>Show the Java Console for applications</td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>AM-21</td>
     <td>Package definition</td>
     <td>2</td>
@@ -431,7 +431,7 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>OpenWebStart supports to include JNLP files in other JNLP files.</td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>JNLP-4</td>
     <td>Deployment Rule Set (Servers)</td>
     <td>2</td>
@@ -452,7 +452,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 5.3
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-low-priority">
     <td>SEC-2</td>
     <td>Untrusted Environment</td>
     <td>2</td>
@@ -475,7 +475,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 5.3
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-low-priority">
     <td>SEC-4</td>
     <td>
         Trusted Environment<br/> 
@@ -488,7 +488,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 5.3
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>SEC-5</td>
     <td>Deployment Rule Set (Certificates)</td>
     <td>2</td>
@@ -556,13 +556,13 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>Provide service implementation to access printing and submit a print job.</td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>JNLP-API-7</td>
     <td>PersistenceService</td>
     <td>2</td>
     <td>Provide service implementation for storing data locally on the client system.</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-low-priority">
     <td>JNLP-API-8</td>
     <td>ExtensionInstallerService</td>
     <td>2</td>
@@ -582,7 +582,7 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>Provides additional support to the current JNLP API. It allows applications to open specific file(s) in the client's file system.</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-low-priority">
     <td>JNLP-API-11</td>
     <td>IntegrationService</td>
     <td>2</td>
@@ -605,6 +605,7 @@ Legend:
     <td class="feature-done">Feature done</td>
     <td class="feature-partially">Feature partially done</td>
     <td class="feature-missing">Feature missing</td>
+    <td class="feature-low-priority">Low priority feature</td>
 </tr>
 </table>
 

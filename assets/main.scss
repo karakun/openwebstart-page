@@ -612,6 +612,14 @@ fieldset label {
         background-color: #fffae5;
     }
     .feature-removed {
+      background-color: #f0f0f0;
       text-decoration: line-through;
     }
+    .feature-low-priority {
+        background-color: #f0f0f0;
+    }
+}
+
+.legend-table td {
+    width: 25%;
 }
