@@ -43,19 +43,19 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>DEB-package</td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>INST-4</td>
     <td>Unattended installer for Windows</td>
     <td>1</td>
     <td>One needs to be able to run the installer in unattended mode</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>INST-5</td>
     <td>Unattended installer for Linux</td>
     <td>1</td>
     <td>One needs to be able to run the installer in unattended mode</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>INST-6</td>
     <td>Unattended installer for Mac</td>
     <td>1</td>
@@ -217,7 +217,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 6.5.2
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>AM-10</td>
     <td>System Properties</td>
     <td>1</td>
