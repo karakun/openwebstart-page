@@ -336,10 +336,10 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 4.5
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-low-priority">
     <td>AM-22</td>
     <td>Pack200</td>
-    <td>1</td>
+    <td>2</td>
     <td>
         OpenWebStart supports pack200 jar artefact compression. The appropiate accept-encoding header value is &quot;pack200-gzip&quot;<br/>
         This feature will be marked as deprecated and removed in a future version.
