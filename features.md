@@ -417,7 +417,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 3.3
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JNLP-2</td>
     <td>Version IDs and Version Strings</td>
     <td>1</td>
