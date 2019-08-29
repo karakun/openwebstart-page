@@ -12,13 +12,13 @@ nav:
 
 # How to install <span class="my-karakun">Open</span>WebStart
 
-<span class="my-karakun">Open</span>WebStart 0.2.0 comes with a user-friendly installer. Download the "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release now!
+<span class="my-karakun">Open</span>WebStart 0.3.0 comes with a user-friendly installer. Download the "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release now!
 
 <span class="my-karakun">Open</span>WebStart is released under the [GPL mit Classpath Exception](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) license.
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Microsoft Windows
 
-1. Go to the [download area](/download) and download `OpenWebStart_windows-x64_0_2_x.zip`.
+1. Go to the [download area](/download) and download `OpenWebStart_windows-x64_0_3_x.zip`.
 1. Run the installer.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
@@ -31,11 +31,11 @@ nav:
 ## How to Install <span class="my-karakun">Open</span>WebStart on Linux
 
 1. Go to the [download area](/download) and download the linux installer:
-   * For Debian Linux, download `OpenWebStart_linux_0_2_x.deb`
-   * For Unix, download `OpenWebStart_unix_0_2_x.sh`
+   * For Debian Linux, download `OpenWebStart_linux_0_3_x.deb`
+   * For Unix, download `OpenWebStart_unix_0_3_x.sh`
 1. Change into the installer directory and run the installer from the terminal: 
-   * For Debian Linux: `sudo dpkg -i OpenWebStart_linux_0_2_x.deb`
-   * For Unix: `sudo chmod u+x ./OpenWebStart_unix_0_2_x.sh; sudo ./OpenWebStart_unix_0_2_x.sh`
+   * For Debian Linux: `sudo dpkg -i OpenWebStart_linux_0_3_x.deb`
+   * For Unix: `sudo chmod u+x ./OpenWebStart_unix_0_3_x.sh; sudo ./OpenWebStart_unix_0_3_x.sh`
 1. Enter your root password.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
@@ -47,7 +47,7 @@ nav:
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on macOS
 
-1. Go to the [download area](/download) and download `OpenWebStart_macos_0_2_x.dmg`.
+1. Go to the [download area](/download) and download `OpenWebStart_macos_0_3_x.dmg`.
 1. Open the OpenWebStart disk image (DMG file) to mount it. 
 1. Run the `Open Web Start Installer.app`.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
@@ -102,8 +102,8 @@ To associate .JNLP applications with <span class="my-karakun">Open</span>WebStar
 1. Run the installer again from the command line with the parameter `-q -varfile response.varfile` to execute an unattended installation.
    * For Windows: `OpenWebStart_windows_Setup.exe -q -varfile response.varfile`
    * For macOS: `sudo Open\ Web\ Start\ Installer.app -q -varfile response.varfile`
-   * For Debian Linux: `sudo OpenWebStart_linux_0_2_x.deb -q -varfile response.varfile`
-   * For Unix: `sudo ./OpenWebStart_unix_0_2_x.sh -q -varfile response.varfile`
+   * For Debian Linux: `sudo OpenWebStart_linux_0_3_x.deb -q -varfile response.varfile`
+   * For Unix: `sudo ./OpenWebStart_unix_0_3_x.sh -q -varfile response.varfile`
 
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
 
