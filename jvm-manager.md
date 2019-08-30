@@ -10,7 +10,10 @@ nav:
 The JVM Manager downloads Java versions from a dedicated server, and manages versions internally. 
 With <span class="text-highlight">Open<span>WebStart</span></span>, it will be easy for developers to specify the Java version and vendor to run JNLP-based applications.
 
-The JVM Manager is configured using the  <span class="text-highlight">Open<span>WebStart</span></span> Settings client.
+The JVM Manager is configured using the  <span class="text-highlight">Open<span>WebStart</span></span> Settings client:
+
+![jvm manager]({{ "/assets/images/webstart/jvm-manager.png" | relative_url }})
+
 Within the JVM Manager Settings panel a list of all known JVMs is displayed.  
 The list item (sandwich) menu allows to activate/deactivate and remove a managed JVM instance from the list.
 
