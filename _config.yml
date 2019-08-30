@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OpenWebStart
-email: info@karakun.com
+email: openwebstart@karakun.com
 description: >- # this means to ignore newlines until "baseurl:"
   open source implementation of WebStart and JNLP
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,7 +22,7 @@ copyright: Copyright © 2019 Karakun AG
 contact:
   street: Elisabethenanlage 25
   city: CH-4051 Basel
-  email: info@karakun.com
+  email: openwebstart@karakun.com
   company: Karakun AG
 twitter_username: karakun
 github_username:  karakun
