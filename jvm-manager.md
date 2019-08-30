@@ -45,6 +45,6 @@ To narrow down the JVM download and usage of a specific vendor you can select a 
 If you don't have any specific vendor preference and want to allow <span class="text-highlight">Open<span>WebStart</span></span> to pick a JVM from any vendor select the asterisk.
 The default vendor is set to "AdoptOpenJDK".
 
-The supported JVM version can be specified by providing a valid version string according to JSR-56, Appendix A. 
+The supported JVM version can be specified by providing a valid version string according to [JSR-56, Appendix A](https://www.jcp.org/en/jsr/detail?id=56). 
 By default, <span class="text-highlight">Open<span>WebStart</span></span> supports JVMs with version 1.8 and later (1.8+). 
 
