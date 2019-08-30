@@ -12,21 +12,22 @@ With <span class="text-highlight">Open<span>WebStart</span></span>, it will be e
 
 The JVM Manager is configured using the  <span class="text-highlight">Open<span>WebStart</span></span> Settings client.
 Within the JVM Manager Settings panel a list of all known JVMs is displayed.  
-The list item menu allows to activate/deactivate and remove a JVM instance from the list.
+The list item (sandwich) menu allows to activate/deactivate and remove a JVM instance from the list.
 
 ### Local JVMs
 
 With "Find local" <span class="text-highlight">Open<span>WebStart</span></span> allows to find existing Java installations on your local machine.
 All found JVMs are listed and are deactivated by default.
-Removing a locally installed JVM from the list does not delete it from the file system.
+Removing locally installed JVMs from the list does not delete it from the file system.
 
 "Add local" allows to manually add additional local JVM installations to the list. 
-For example if the you have JVM installed in a non-standard location which is not detected by a "find local" search.
+This is very helpful if you have a JVM installed in a non-standard location which is not detected by a "Find local" search.
 
 ### Remote JVMs
 
-<span class="text-highlight">Open<span>WebStart</span></span> provides a standard download server with a basic set of non-commercial JVMs.
+<span class="text-highlight">Open<span>WebStart</span></span> provides a standard download server with a basic set of popular non-commercial JVMs.
 This can be changed to your preferred custom download server in the "Settings" dialog.
+
 By default, <span class="text-highlight">Open<span>WebStart</span></span> will only download JVMs from the configured server.
 You can allow the usage of the server specified in the JNLP file by enabling the option "Allow other servers".
 
@@ -37,7 +38,7 @@ The update strategy for remote JVMs can be one of the following:
 * Do nothing on local match
 * Automatically download
 
-To narrow down the JVM download and usage of a specific vendor you can select the vendor from the list of provided vendors.
-To allow any vendor select the asterisk.
+To narrow down the JVM download and usage of a specific vendor you can select a vendor from the list of provided vendors.
+If you don't have any specific vendor preference and want to allow <span class="text-highlight">Open<span>WebStart</span></span> to pick a JVM from any vendor select the asterisk.
 The default vendor is set to "AdoptOpenJDK".
 
