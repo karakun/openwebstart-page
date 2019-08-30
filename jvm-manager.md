@@ -12,15 +12,15 @@ With <span class="text-highlight">Open<span>WebStart</span></span>, it will be e
 
 The JVM Manager is configured using the  <span class="text-highlight">Open<span>WebStart</span></span> Settings client.
 Within the JVM Manager Settings panel a list of all known JVMs is displayed.  
-The list item (sandwich) menu allows to activate/deactivate and remove a JVM instance from the list.
+The list item (sandwich) menu allows to activate/deactivate and remove a managed JVM instance from the list.
 
 ### Local JVMs
 
-With "Find local" <span class="text-highlight">Open<span>WebStart</span></span> allows to find existing Java installations on your local machine.
+With the "Find local" option <span class="text-highlight">Open<span>WebStart</span></span> allows to find existing Java installations on your local machine.
 All found JVMs are listed and are deactivated by default.
 Removing locally installed JVMs from the list does not delete it from the file system.
 
-"Add local" allows to manually add additional local JVM installations to the list. 
+The "Add local" option allows to manually add additional local JVM installations to the list. 
 This is very helpful if you have a JVM installed in a non-standard location which is not detected by a "Find local" search.
 
 ### Remote JVMs
