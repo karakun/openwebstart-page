@@ -32,14 +32,14 @@ This is very helpful if you have a JVM installed in a non-standard location whic
 This can be changed to your preferred custom download server in the "Settings" dialog.
 
 By default, <span class="text-highlight">Open<span>WebStart</span></span> will only download JVMs from the configured server.
-You can allow the usage of the server specified in the JNLP file by enabling the option "Allow other servers".
+You can allow the usage of the server specified in the JNLP file by enabling the option "Allow server from JNLP file".
 
 ### Additional Settings
 
 The update strategy for remote JVMs can be one of the following:
-* Ask for update on local match (default)
-* Do nothing on local match
-* Automatically download
+* Use local if available
+* Ask if newer version should be downloaded
+* Always download newer version
 
 To narrow down the JVM download and usage of a specific vendor you can select a vendor from the list of provided vendors.
 If you don't have any specific vendor preference and want to allow <span class="text-highlight">Open<span>WebStart</span></span> to pick a JVM from any vendor select the asterisk.
