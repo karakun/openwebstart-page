@@ -30,12 +30,9 @@ nav:
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Linux
 
-1. Go to the [download area](/download) and download the linux installer:
-   * For Debian Linux, download `OpenWebStart_linux_0_3_x.deb`
-   * For Unix, download `OpenWebStart_unix_0_3_x.sh`
+1. Go to the [download area](/download) and download `OpenWebStart_linux_0_3_x.deb`.
 1. Change into the installer directory and run the installer from the terminal: 
-   * For Debian Linux: `sudo dpkg -i OpenWebStart_linux_0_3_x.deb`
-   * For Unix: `sudo chmod u+x ./OpenWebStart_unix_0_3_x.sh; sudo ./OpenWebStart_unix_0_3_x.sh`
+   <br />`sudo dpkg -i OpenWebStart_linux_0_3_x.deb`
 1. Enter your root password.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
