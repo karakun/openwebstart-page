@@ -285,7 +285,7 @@ You can download the current version in the [download area](/download).
         The details on how the integration can be established depend on the OS.
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>AM-16</td>
     <td>Application Start</td>
     <td>1</td>
@@ -350,7 +350,7 @@ You can download the current version in the [download area](/download).
     <th colspan="4">JVM Manager</th>
 </tr>
 
-<tr class="feature-missing">
+<tr class="feature-partially">
     <td>JM-1</td>
     <td>Version Management</td>
     <td>1</td>
@@ -360,7 +360,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 4.6
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>JM-2</td>
     <td>Update Management</td>
     <td>1</td>
@@ -368,7 +368,7 @@ You can download the current version in the [download area](/download).
         OpenWebStart can check if it has a JVM instances that matches to the needs of a JLNP application. If not OpenWebStart will automatically download a new JVM version that can be used to start the JNLP application.
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>JM-3</td>
     <td>Download-Server Management</td>
     <td>1</td>
@@ -376,7 +376,7 @@ You can download the current version in the [download area](/download).
         Since OpenWebStart can download new JVM instances the list of endpoints that can be used to get new JVMs must be specified. Here we need to define a REST API that can be used to ask endpoints for JVMs and than download them. We will support HTTP and HTTPS as protocol.
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>JM-4</td>
     <td>Support of vendor-specific JVMs</td>
     <td>1</td>
@@ -406,7 +406,7 @@ You can download the current version in the [download area](/download).
     <th colspan="4">JNLP</th>
 </tr>
 
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JNLP-1</td>
     <td>JNLP Parser & Verifier</td>
     <td>1</td>
@@ -417,7 +417,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 3.3
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JNLP-2</td>
     <td>Version IDs and Version Strings</td>
     <td>1</td>

@@ -56,6 +56,8 @@ By default, <span class="text-highlight">Open<span>WebStart</span></span> will d
 
 ![download JVM]({{ "/assets/images/webstart/download-jvm.png" | relative_url }})
 
+For further details see the JVM Manger [detail description](/jvm-manager).
+
 ### How do I configure OpenWebStart?
 The well-known Java Control Panel that was installed together with Oracle Java was part of Web Start.
 When Web Start is removed from Oracle Java, we'll also lose the Control Panel.

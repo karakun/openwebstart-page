@@ -38,7 +38,7 @@ Additionally, the tool contains four modules that simplify your Web Start workfl
 and let you configure <span class="text-highlight">Open<span>WebStart</span></span> to suit your needs:
 
 - The **App Manager** manages the versions of any JNLP-based application that is executed by <span class="text-highlight">Open<span>WebStart</span></span>.
-- The **JVM Manager** manages Java versions and Java updates on the client.
+- The [**JVM Manager**](/jvm-manager) manages Java versions and Java updates on the client.
 - The **Control Panel** provides a graphical user interface to configure <span class="text-highlight">Open<span>WebStart</span></span>.
 - The **Updater** downloads and installs new versions of <span class="text-highlight">Open<span>WebStart</span></span>.
 
