@@ -462,7 +462,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 5.3
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>SEC-3</td>
     <td>
         Trusted Environment<br/>
