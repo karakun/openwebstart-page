@@ -494,7 +494,7 @@ You can download the current version in the [download area](/download).
     <td>2</td>
     <td>Provide deployment rule set as white list for SHA256 hashes/certificates.</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>SEC-6</td>
     <td>Signature Check Deactivation</td>
     <td>1</td>
