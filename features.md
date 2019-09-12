@@ -442,7 +442,7 @@ You can download the current version in the [download area](/download).
     <th colspan="4">Security</th>
 </tr>
 
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>SEC-1</td>
     <td>Signature Check</td>
     <td>1</td>
