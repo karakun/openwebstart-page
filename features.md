@@ -452,7 +452,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 5.3
     </td>
 </tr>
-<tr class="feature-low-priority">
+<tr class="feature-done">
     <td>SEC-2</td>
     <td>Untrusted Environment</td>
     <td>2</td>
