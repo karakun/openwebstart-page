@@ -47,7 +47,7 @@ You’re a developer and want to take a closer look at our source repo? [Visit o
 ### OpenWebStart Roadmap
 We have been able to secure a good part of the required funding, and 
 we and our sponsors are currently discussing the list of features that we are going to implement.
-Our goal is to have beta tests and a release candidate ready in Q3/2019.
+Our goal is to have the final release 1.0 ready in November 2019.
 
 The following diagram shows the roadmap:
 
