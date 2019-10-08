@@ -588,10 +588,10 @@ You can download the current version in the [download area](/download).
     <td>2</td>
     <td>Provide service implementation for programmatic management (create, delete) of desktop and menu shortcuts.</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-low-priority">
     <td>JNLP-API-12</td>
     <td>DownloadService2</td>
-    <td>1</td>
+    <td>2</td>
     <td>Provide service implementation that allows an application to control how its own resources are cached.</td>
 </tr>
 
