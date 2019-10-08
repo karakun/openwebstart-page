@@ -4,6 +4,12 @@ header:
   text: Run <span class="my-karakun">Web Start</span> based application after the release of <span class="my-karakun">Java 11</span>
 ---
 
+<div class="latest-news">
+<h4>Latest news</h4>
+<em>3. Sep. 2019:</em><br/>
+We just released OpenWebStart 0.3.2, which contains a crucial bugfix.
+</div>
+
 ## Java Web Start is dead. Long live Java Web Start!
 Java Web Start (JWS) was deprecated in Java 9, and starting with Java 11, Oracle removed JWS from their JDK distributions.
 This means that clients that have the latest version of Java installed can no longer use JWS-based applications.

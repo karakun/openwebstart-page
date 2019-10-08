@@ -165,7 +165,7 @@ footer {
         > div.right-clm {
             display: flex;
             flex-direction: column;
-                        
+
             @include mobile {
                 align-self: center;
             }
@@ -438,7 +438,7 @@ article {
         width: 192px;
     }
     @extend .table
-    
+
 }
 
 .highlight {
@@ -471,7 +471,7 @@ a {
 .eye {
     animation: squeeze 4.5s infinite;
 }
-  
+
 @keyframes blink {
     96% {
         transform: none;
@@ -515,7 +515,7 @@ a {
 }
 
 .metainfo-icon {
-    color: rgb(100, 100, 100);   
+    color: rgb(100, 100, 100);
 }
 
 .embed-container {
@@ -622,4 +622,16 @@ fieldset label {
 
 .legend-table td {
     width: 25%;
+}
+
+.latest-news {
+    float: right;
+    width: 350px;
+    border: solid thin #363636;
+    margin: 0 2.5em 2.5em;
+    padding: 1.5em;
+}
+
+.latest-news h4 {
+    margin-top: 0;
 }
