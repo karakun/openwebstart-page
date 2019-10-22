@@ -270,7 +270,7 @@ You can download the current version in the [download area](/download).
         The details on how the integration can be established depend on the OS.
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-partially">
     <td>AM-15</td>
     <td>Installation on Mac</td>
     <td>1</td>
