@@ -158,7 +158,7 @@ You can download the current version in the [download area](/download).
         check-attribute=background
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-partially">
     <td>AM-4</td>
     <td>Incremental Updates</td>
     <td>1</td>
@@ -207,7 +207,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 4.4
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>AM-9</td>
     <td>Versioning of Resources</td>
     <td>1</td>
@@ -240,7 +240,7 @@ You can download the current version in the [download area](/download).
         JNLP files can be defined with a version attribute. This helps to check if an JNLP based application is updated.
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>AM-13</td>
     <td>Installation on Windows</td>
     <td>1</td>
@@ -392,7 +392,7 @@ You can download the current version in the [download area](/download).
         As OpenWebStart will automatically download JDKs we need a mechanism to remove old JDKs once they are not needed anymore (maybe after they are not used for a year).
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JM-6</td>
     <td>JVM parameters for application start</td>
     <td>1</td>
