@@ -1,0 +1,21 @@
+# Data file that defines all properties that can be provided at installation time.
+
+- name: 'ows.jvm.manager.server.default'
+  description: 'This property must contain a valide URL that defines the server that is used 
+  to download new JVMs.'
+  lockable: true
+
+- name: 'ows.jvm.manager.server.allowFromJnlp'
+  description: 'Defines if a custom URL can be used to download a JVM. Such URL can be part 
+  of a JNLP file.'
+  lockable: true
+
+- name: 'ows.jvm.manager.vendor'
+  description: 'Defines a specifc JVM vendor. By doing so only JVMs from that vendor will 
+  be downloaded.'
+  lockable: true
+
+- name: 'ows.jvm.manager.updateStrategy'
+  description: 'When starting a JNLP application OpenWebStart can check if an updated JVM is 
+  available to run the application. This property defines how OpenWebstart behaves in the JVM check.'
+  lockable: true
