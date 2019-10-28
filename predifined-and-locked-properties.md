@@ -7,6 +7,7 @@ permalink: /configuration/
 header:
   image: webstart-2
   text: Predefinied configuration for <span class="my-karakun">Open</span>WebStart
+hidden: true
 nav:
   bottom: false
 ---
