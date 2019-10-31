@@ -19,3 +19,20 @@
   description: 'When starting a JNLP application OpenWebStart can check if an updated JVM is 
   available to run the application. This property defines how OpenWebstart behaves in the JVM check.'
   lockable: true
+
+- name: 'ows.update.activated'
+  description: 'Defines if OpenWebStart should automatically search for updates.'
+  lockable: true
+  
+- name: 'ows.checkUpdate'
+  description: 'This property has no effect and is only used to lock functionality in the ui.
+  If this property is locked a user can not manually search for OpenWebStart updates.'
+  lockable: true
+  
+- name: 'ows.update.strategy.settings'
+  description: 'Defines how often OpenWebStart should search for updates when opening the settings windows. Allowed values are ON_EVERY_START, DAILY, WEEKLY, MONTHLY and NEVER'
+  lockable: true
+
+- name: 'ows.update.strategy.launch'
+  description: 'Defines how often OpenWebStart should search for updates when starting an application. Allowed values are ON_EVERY_START, DAILY, WEEKLY, MONTHLY and NEVER'
+  lockable: true
