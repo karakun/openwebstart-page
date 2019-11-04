@@ -102,6 +102,10 @@ To associate .JNLP applications with <span class="my-karakun">Open</span>WebStar
    * For Debian Linux: `sudo OpenWebStart_linux_0_4_0.deb -q -varfile response.varfile`
    * For Unix: `sudo ./OpenWebStart_unix_0_4_0.sh -q -varfile response.varfile`
 
+When using the unattended installation several configuration properties can be defined in the
+`response.varfile` file. You can find an overview of the supported properties
+[here](TODO: LINK TO NEW CONFIG PAGE).
+
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
 
 1. Go to your <span class="my-karakun">Open</span>WebStart directory. 
@@ -109,3 +113,14 @@ To associate .JNLP applications with <span class="my-karakun">Open</span>WebStar
 1. Click **Next** in the <span class="my-karakun">Open</span>WebStart Uninstaller wizard.
 1. Wait for the Uninstaller to complete.
 1. Click **Finish** on the completion screen to close the wizard.
+
+
+# Auto Update functionality for <span class="my-karakun">Open</span>WebStart
+
+Once <span class="my-karakun">Open</span>WebStart is installed it will automatically check if new
+versions of <span class="my-karakun">Open</span>WebStart are available. In such case a dialog
+will inform the user about the new version and provides the possibility to directly download and
+install the update.
+
+If you do not want to use the auto update functionality it can be deactivated by using the unattended
+installer. You can find information about such configuration [here](TODO: LINK TO NEW CONFIG PAGE).
