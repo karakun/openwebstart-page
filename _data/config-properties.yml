@@ -1,0 +1,42 @@
+# Data file that defines all properties that can be provided at installation time.
+
+- name: 'ows.jvm.manager.server.default'
+  description: 'This property must contain a valid URL that defines the server that is used 
+  to download new JVMs.'
+  lockable: true
+
+- name: 'ows.jvm.manager.server.allowFromJnlp'
+  description: 'Defines if a custom URL can be used to download a JVM. Such URL can be part 
+  of a JNLP file.'
+  lockable: true
+
+- name: 'ows.jvm.manager.vendor'
+  description: 'Defines a specifc JVM vendor. By doing so, only JVMs from that vendor will 
+  be downloaded.'
+  lockable: true
+
+- name: 'ows.jvm.manager.updateStrategy'
+  description: 'When starting a JNLP application, OpenWebStart can check if an updated JVM is 
+  available to run the application. This property defines how OpenWebstart behaves in the JVM check.'
+  lockable: true
+
+- name: 'ows.update.activated'
+  description: 'Defines if OpenWebStart should automatically search for updates.'
+  lockable: true
+  
+- name: 'ows.checkUpdate'
+  description: 'This property has no effect and is only used to lock functionality in the user interface.
+  If this property is locked, a user cannot manually search for OpenWebStart updates.'
+  lockable: true
+  
+- name: 'ows.update.strategy.settings'
+  description: 'Defines how often OpenWebStart should search for updates when opening the settings windows. Allowed values are ON_EVERY_START, DAILY, WEEKLY, MONTHLY, and NEVER.'
+  lockable: true
+
+- name: 'ows.update.strategy.launch'
+  description: 'Defines how often OpenWebStart should search for updates when starting an application. Allowed values are ON_EVERY_START, DAILY, WEEKLY, MONTHLY, and NEVER.'
+  lockable: true
+
+-name: 'deployment.security.whitelist'
+  description: 'A comma seperated list of urls that are defined as whitelist. The whitelist is checked whenever OpenWebStart will download a ressource (like a JAR file).'
+  lockable: false
