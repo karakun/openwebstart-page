@@ -12,7 +12,7 @@ nav:
 
 # How to install <span class="my-karakun">Open</span>WebStart
 
-<span class="my-karakun">Open</span>WebStart 0.4.0 comes with a user-friendly installer. Download the "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release now!
+<span class="my-karakun">Open</span>WebStart 0.5.0 comes with a user-friendly installer. Download the "stable" build to try out the <span class="text-highlight">Open<span>WebStart</span></span> alpha release now!
 
 <span class="my-karakun">Open</span>WebStart is released under the [GPL mit Classpath Exception](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) license.
 
@@ -32,7 +32,7 @@ nav:
 
 1. Go to the [download area](/download) and download `OpenWebStart_linux_0_4_0.deb`.
 1. Change into the installer directory and run the installer from the terminal: 
-   <br />`sudo dpkg -i OpenWebStart_linux_0_3_x.deb`
+   <br />`sudo dpkg -i OpenWebStart_linux_0_5_x.deb`
 1. Enter your root password.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
@@ -44,7 +44,7 @@ nav:
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on macOS
 
-1. Go to the [download area](/download) and download `OpenWebStart_macos_0_4_0.dmg`.
+1. Go to the [download area](/download) and download `OpenWebStart_macos_0_5_0.dmg`.
 1. Open the OpenWebStart disk image (DMG file) to mount it. 
 1. Run the `Open Web Start Installer.app`.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
@@ -95,32 +95,32 @@ To associate .JNLP applications with <span class="my-karakun">Open</span>WebStar
 1. Locate the response file and copy it next to the <span class="my-karakun">Open</span>WebStart installer:
    * For Windows: `C:\Program Files\OpenWebStart\.install4j\response.varfile`
    * For macOS: `/Applications/Open Web Start/.install4j/response.varfile`
-   * For Linux/Unix: `/opt/openwebstart/.install4j/response.varfile`
 1. Run the installer again from the command line with the parameter `-q -varfile response.varfile` to execute an unattended installation.
    * For Windows: `OpenWebStart_windows_Setup.exe -q -varfile response.varfile`
    * For macOS: `sudo Open\ Web\ Start\ Installer.app -q -varfile response.varfile`
-   * For Debian Linux: `sudo OpenWebStart_linux_0_4_0.deb -q -varfile response.varfile`
-   * For Unix: `sudo ./OpenWebStart_unix_0_4_0.sh -q -varfile response.varfile`
 
 When using the unattended installation several configuration properties can be defined in the
 `response.varfile` file. You can find an overview of the supported properties
-[here](TODO: LINK TO NEW CONFIG PAGE).
+[here](/config-properties).
 
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
 
+For Windos and macOS:
 1. Go to your <span class="my-karakun">Open</span>WebStart directory. 
 1. Run the Uninstaller.
 1. Click **Next** in the <span class="my-karakun">Open</span>WebStart Uninstaller wizard.
 1. Wait for the Uninstaller to complete.
 1. Click **Finish** on the completion screen to close the wizard.
 
+For Linux:
+1. Use your package manager and remove the package <span class="my-karakun">Open</span>WebStart
 
 # Auto Update functionality for <span class="my-karakun">Open</span>WebStart
 
-Once <span class="my-karakun">Open</span>WebStart is installed it will automatically check if new
-versions of <span class="my-karakun">Open</span>WebStart are available. In such case a dialog
-will inform the user about the new version and provides the possibility to directly download and
-install the update.
+Once <span class="my-karakun">Open</span>WebStart is installed it will automatically check for new
+versions of <span class="my-karakun">Open</span>WebStart.
+If a new version is found a dialog will inform the user about the new version
+and provides the possibility to directly download and install the update.
 
 If you do not want to use the auto update functionality it can be deactivated by using the unattended
-installer. You can find information about such configuration [here](TODO: LINK TO NEW CONFIG PAGE).
+installer. You can find information about such configuration [here](/config-properties).
