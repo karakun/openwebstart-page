@@ -37,6 +37,6 @@
   description: 'Defines how often OpenWebStart should search for updates when starting an application. Allowed values are ON_EVERY_START, DAILY, WEEKLY, MONTHLY, and NEVER.'
   lockable: true
 
--name: 'deployment.security.whitelist'
+- name: 'deployment.security.whitelist'
   description: 'A comma seperated list of urls that are defined as whitelist. The whitelist is checked whenever OpenWebStart will download a ressource (like a JAR file).'
   lockable: false

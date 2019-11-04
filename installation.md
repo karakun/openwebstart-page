@@ -101,7 +101,7 @@ To associate .JNLP applications with <span class="my-karakun">Open</span>WebStar
 
 When using the unattended installation several configuration properties can be defined in the
 `response.varfile` file. You can find an overview of the supported properties
-[here]({{ site.baseurl }}{% link _collection/predifined-and-locked-properties.md %}).
+[here]({{ site.baseurl }}{% link predefined-and-locked-properties.md %}).
 
 # How to Uninstall <span class="my-karakun">Open</span>WebStart
 
@@ -123,4 +123,4 @@ If a new version is found a dialog will inform the user about the new version
 and provides the possibility to directly download and install the update.
 
 If you do not want to use the auto update functionality it can be deactivated by using the unattended
-installer. You can find information about such configuration [here]({{ site.baseurl }}{% link _collection/predifined-and-locked-properties.md %}).
+installer. You can find information about such configuration [here]({{ site.baseurl }}{% link predefined-and-locked-properties.md %}).
