@@ -12,12 +12,13 @@
 
 - name: 'ows.jvm.manager.vendor'
   description: 'Defines a specifc JVM vendor. By doing so, only JVMs from that vendor will 
-  be downloaded.'
+  be downloaded. You can use ''*'' to allow any vendor.'
   lockable: true
 
 - name: 'ows.jvm.manager.updateStrategy'
   description: 'When starting a JNLP application, OpenWebStart can check if an updated JVM is 
-  available to run the application. This property defines how OpenWebstart behaves in the JVM check.'
+  available to run the application. This property defines how OpenWebstart behaves in the JVM check.
+  Possible values are DO_NOTHING_ON_LOCAL_MATCH, ASK_FOR_UPDATE_ON_LOCAL_MATCH and AUTOMATICALLY_DOWNLOAD'
   lockable: true
 
 - name: 'ows.update.activated'
