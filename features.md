@@ -608,4 +608,3 @@ Legend:
     <td class="feature-low-priority">Low priority feature</td>
 </tr>
 </table>
-
