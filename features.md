@@ -72,7 +72,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 3.2
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>INST-8</td>
     <td>OpenWebStart Updater</td>
     <td>1</td>
@@ -92,7 +92,7 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>This requirement has been removed.</td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>INST-11</td>
     <td>Configuration by property file</td>
     <td>1</td>
@@ -134,7 +134,7 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 6.6
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>AM-2</td>
     <td>Application Updates</td>
     <td>1</td>
@@ -350,7 +350,7 @@ You can download the current version in the [download area](/download).
     <th colspan="4">JVM Manager</th>
 </tr>
 
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JM-1</td>
     <td>Version Management</td>
     <td>1</td>
@@ -500,7 +500,7 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>OpenWebStart allows to deactivate the signature check, e.g. for in-house applications.</td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-done">
     <td>SEC-7</td>
     <td>Server White List</td>
     <td>1</td>
