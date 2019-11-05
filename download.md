@@ -21,10 +21,10 @@ Some features are missing.
 In the [feature-table](/feature-table) you can find the full list of planned features and their current state.
 
 #### Windows
-[OpenWebStart_windows-x64_0_4_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v0.4.0/OpenWebStart_windows-x64_0_4_0.zip)
+[OpenWebStart_windows-x64_0_5_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v0.5.0/OpenWebStart_windows-x64_0_5_0.zip)
 
 #### Mac
-[OpenWebStart_macos_0_4_0.dmg](https://github.com/karakun/OpenWebStart/releases/download/v0.4.0/OpenWebStart_macos_0_4_0.dmg)
+[OpenWebStart_macos_0_5_0.dmg](https://github.com/karakun/OpenWebStart/releases/download/v0.5.0/OpenWebStart_macos_0_5_0.dmg)
 
 #### Linux
-[OpenWebStart_linux_0_4_0.deb](https://github.com/karakun/OpenWebStart/releases/download/v0.4.0/OpenWebStart_linux_0_4_0.deb)
+[OpenWebStart_linux_0_5_0.deb](https://github.com/karakun/OpenWebStart/releases/download/v0.5.0/OpenWebStart_linux_0_5_0.deb)
