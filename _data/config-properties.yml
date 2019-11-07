@@ -41,3 +41,7 @@
 - name: 'deployment.security.whitelist'
   description: 'A comma seperated list of urls that are defined as whitelist. The whitelist is checked whenever OpenWebStart will download a ressource (like a JAR file).'
   lockable: false
+
+- name: 'deployment.assumeFileSystemInCodebase'
+  description: 'Defines if files from the local filesystem are always handled as if they would be part of the codebase.'
+  lockable: false
