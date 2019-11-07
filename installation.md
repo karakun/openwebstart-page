@@ -12,13 +12,13 @@ nav:
 
 # How to install <span class="my-karakun">Open</span>WebStart
 
-<span class="my-karakun">Open</span>WebStart 0.5.0 comes with a user-friendly installer. Download the latest stable build to try out the <span class="text-highlight">Open<span>WebStart</span></span> pre-release now!
+<span class="my-karakun">Open</span>WebStart 0.5.1 comes with a user-friendly installer. Download the latest stable build to try out the <span class="text-highlight">Open<span>WebStart</span></span> pre-release now!
 
 <span class="my-karakun">Open</span>WebStart is released under the [GPL mit Classpath Exception](https://github.com/karakun/OpenWebStart/blob/master/LICENSE.md) license.
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Microsoft Windows
 
-1. Go to the [download area](/download) and download `OpenWebStart_windows-x64_0_5_0.zip`.
+1. Go to the [download area](/download) and download `OpenWebStart_windows-x64_0_5_1.zip`.
 1. Run the installer.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.
@@ -30,7 +30,7 @@ nav:
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on Linux
 
-1. Go to the [download area](/download) and download `OpenWebStart_linux_0_5_0.deb`.
+1. Go to the [download area](/download) and download `OpenWebStart_linux_0_5_1.deb`.
 1. Change into the installer directory and run the installer from the terminal: 
    <br />`sudo dpkg -i OpenWebStart_linux_0_5_x.deb`
 1. Enter your root password.
@@ -44,7 +44,7 @@ nav:
 
 ## How to Install <span class="my-karakun">Open</span>WebStart on macOS
 
-1. Go to the [download area](/download) and download `OpenWebStart_macos_0_5_0.dmg`.
+1. Go to the [download area](/download) and download `OpenWebStart_macos_0_5_1.dmg`.
 1. Open the OpenWebStart disk image (DMG file) to mount it. 
 1. Run the `Open Web Start Installer.app`.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
