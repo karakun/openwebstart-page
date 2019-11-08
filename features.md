@@ -148,10 +148,10 @@ You can download the current version in the [download area](/download).
         policy-attribute=always
     </td>
 </tr>
-<tr class="feature-missing">
+<tr class="feature-low-priority">
     <td>AM-3</td>
     <td>Background Updates</td>
-    <td>1</td>
+    <td>2</td>
     <td>
         OpenWebStart allows to update applications in the background while the current version of the application is running. After the download is finished the new version becomes available with the next restart of the application.<br/>
         JSR-56, Ch. 3.6<br/>
