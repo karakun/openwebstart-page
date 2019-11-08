@@ -158,7 +158,7 @@ You can download the current version in the [download area](/download).
         check-attribute=background
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>AM-4</td>
     <td>Incremental Updates</td>
     <td>1</td>
