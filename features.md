@@ -13,6 +13,8 @@ nav:
 This is the list of features of <span class="text-highlight">Open<span>WebStart</span></span> that we are going to implement, with their priority and their current state.
 You can download the current version in the [download area](/download).
 
+### Version 1.0
+
 <table class="feature-table">
 <tr>
     <th>Identifier</th>
@@ -198,15 +200,6 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 4.3
     </td>
 </tr>
-<tr class="feature-low-priority">
-    <td>AM-8</td>
-    <td>Lazy Download of Resources</td>
-    <td>2</td>
-    <td>
-        The JNLP file download attribute is used to control whether a resource is downloaded eagerly or lazily.<br/>
-        JSR-56, Ch. 4.4
-    </td>
-</tr>
 <tr class="feature-done">
     <td>AM-9</td>
     <td>Versioning of Resources</td>
@@ -382,14 +375,6 @@ You can download the current version in the [download area](/download).
     <td>1</td>
     <td>
         As some users will have commercial support of a specific JDK vendor it must be possible to define the vendor for a managed JVM.
-    </td>
-</tr>
-<tr class="feature-missing">
-    <td>JM-5</td>
-    <td>Auto clean</td>
-    <td>1</td>
-    <td>
-        As OpenWebStart will automatically download JDKs we need a mechanism to remove old JDKs once they are not needed anymore (maybe after they are not used for a year).
     </td>
 </tr>
 <tr class="feature-done">
@@ -593,6 +578,57 @@ You can download the current version in the [download area](/download).
     <td>DownloadService2</td>
     <td>2</td>
     <td>Provide service implementation that allows an application to control how its own resources are cached.</td>
+</tr>
+
+</table>
+
+### Version 1.1
+
+<table class="feature-table">
+<tr>
+    <th>Identifier</th>
+    <th>Feature</th>
+    <th>Priority</th>
+    <th>Description</th>
+</tr>
+
+<tr class="feature-missing">
+    <td>IE-1</td>
+    <td>IE proxy configuration</td>
+    <td>1</td>
+    <td>
+        OpenWebStart can read the proxy settings from IE. 
+    </td>
+</tr>
+
+</table>
+
+### Version 1.2
+
+<table class="feature-table">
+<tr>
+    <th>Identifier</th>
+    <th>Feature</th>
+    <th>Priority</th>
+    <th>Description</th>
+</tr>
+
+<tr class="feature-missing">
+    <td>AM-8</td>
+    <td>Lazy Download of Resources</td>
+    <td>1</td>
+    <td>
+        The JNLP file download attribute is used to control whether a resource is downloaded eagerly or lazily.<br/>
+        JSR-56, Ch. 4.4
+    </td>
+</tr>
+<tr class="feature-missing">
+    <td>JM-5</td>
+    <td>Auto clean</td>
+    <td>1</td>
+    <td>
+        As OpenWebStart will automatically download JDKs we need a mechanism to remove old JDKs once they are not needed anymore (maybe after they are not used for a year).
+    </td>
 </tr>
 
 </table>
