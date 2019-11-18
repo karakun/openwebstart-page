@@ -19,6 +19,7 @@ If you need help installing <span class="text-highlight">Open<span>WebStart</spa
 <span class="text-highlight">Open<span>WebStart</span></span> is still in beta.
 Some features are missing.
 In the [feature-table](/feature-table) you can find the full list of planned features and their current state.
+All past releases and their release notes are listed on the [release page](https://github.com/karakun/OpenWebStart/releases).
 
 #### Windows
 [OpenWebStart_windows-x64_0_5_1.zip](https://github.com/karakun/OpenWebStart/releases/download/v0.5.1/OpenWebStart_windows-x64_0_5_1.zip)
