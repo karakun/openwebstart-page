@@ -420,7 +420,7 @@ You can download the current version in the [download area](/download).
     <td>JNLP-4</td>
     <td>Deployment Rule Set (Servers)</td>
     <td>2</td>
-    <td>Provide depolyment rule set as white list for OpenWebStart resources (URIs).</td>
+    <td>Provide deployment rule set as white list for OpenWebStart resources (URIs).</td>
 </tr>
 
 <tr>
@@ -561,7 +561,7 @@ You can download the current version in the [download area](/download).
         Provide service implementation for applications to register themselves as singletons, and to register listener(s) for handling arguments passed in from different instances of applications.
     </td>
 </tr>
-<tr class="feature-partially">
+<tr class="feature-done">
     <td>JNLP-API-10</td>
     <td>ExtendedService</td>
     <td>1</td>

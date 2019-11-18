@@ -22,10 +22,10 @@ In the [feature-table](/feature-table) you can find the full list of planned fea
 All past releases and their release notes are listed on the [release page](https://github.com/karakun/OpenWebStart/releases).
 
 #### Windows
-[OpenWebStart_windows-x64_0_5_1.zip](https://github.com/karakun/OpenWebStart/releases/download/v0.5.1/OpenWebStart_windows-x64_0_5_1.zip)
+[OpenWebStart_windows-x64_1_0_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_windows-x64_1_0_0.zip)
 
 #### Mac
-[OpenWebStart_macos_0_5_1.dmg](https://github.com/karakun/OpenWebStart/releases/download/v0.5.1/OpenWebStart_macos_0_5_1.dmg)
+[OpenWebStart_macos_1_0_0.dmg](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_macos_1_0_0.dmg)
 
 #### Linux
-[OpenWebStart_linux_0_5_1.deb](https://github.com/karakun/OpenWebStart/releases/download/v0.5.1/OpenWebStart_linux_0_5_1.deb)
+[OpenWebStart_linux_1_0_0.deb](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_linux_1_0_0.deb)
