@@ -44,8 +44,8 @@
 
 - name: 'deployment.assumeFileSystemInCodebase'
   description: 'Defines if files from the local filesystem are always handled as if they would be part of the codebase.'
-  lockable: false
+  lockable: true
 
 - name: 'deployment.https.noenforce'
   description: 'If set to true http urls are not converted to https. Default is false'
-  lockable: false
+  lockable: true
