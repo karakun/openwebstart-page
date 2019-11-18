@@ -16,8 +16,6 @@ Here you can find installers of the latest versions of <span class="text-highlig
 If you need help installing <span class="text-highlight">Open<span>WebStart</span></span>, there are [installation instructions](/installation).
 
 
-<span class="text-highlight">Open<span>WebStart</span></span> is still in beta.
-Some features are missing.
 In the [feature-table](/feature-table) you can find the full list of planned features and their current state.
 All past releases and their release notes are listed on the [release page](https://github.com/karakun/OpenWebStart/releases).
 
