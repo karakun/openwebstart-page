@@ -35,7 +35,7 @@ The following table provides an overview of all properties that can be specified
 To create a `response.varfile` file, run the installation of <span class="my-karakun">Open</span>WebStart at least once manually. By doing so a `response.varfile` file is created in <span class="my-karakun">Open</span>WebStart installation folder in your system. In the installation folder, you find a `.install4j` folder that contains the basic `response.varfile` file. The content of such a file looks like this:
 
 {% highlight plaintext %}
-# install4j response file for OpenWebStart 0.5.0-SNAPSHOT
+# install4j response file for OpenWebStart 1.0.0-SNAPSHOT
 sys.adminRights$Boolean=false
 sys.fileAssociation.extensions$StringArray="jnlp","jnlpx"
 sys.fileAssociation.launchers$StringArray="313","313"
@@ -46,7 +46,7 @@ sys.languageId=de
 You can easily edit this file and add additional properties based on the table in this article. Do not change the initial content of the file, and add new properties always to the end of the file. After editing, a `response.varfile` file might look like this:
 
 {% highlight plaintext %}
-# install4j response file for OpenWebStart 0.5.0-SNAPSHOT
+# install4j response file for OpenWebStart 1.0.0-SNAPSHOT
 sys.adminRights$Boolean=false
 sys.fileAssociation.extensions$StringArray="jnlp","jnlpx"
 sys.fileAssociation.launchers$StringArray="313","313"
