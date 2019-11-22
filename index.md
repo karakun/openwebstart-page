@@ -27,11 +27,9 @@ For more information about the removal of Java Web Start, have a look at these d
 
 ![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
 
-### Have your say - become a sponsor!
-As a sponsor, you can influence the list of features we are going to implement, and issues reported by sponsors get the highest priority. 
-Plus, we will run regular tests with your applications to guarantee that your applications will work with <span class="text-highlight">Open<span>WebStart</span></span>. 
-
-You want to be where the action is? We are still looking for sponsors. Please contact us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
+### Enjoy premium support!
+Java and your operating system get updates, and so does <span class="text-highlight">Open<span>WebStart</span></span>.
+We always have your back with current developments: talk to us about a support subscription at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
 
 ### We keep you in the loop!
 Want to learn more and stay up-to-date with the project?
