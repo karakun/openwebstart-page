@@ -19,6 +19,8 @@ If you need help installing <span class="text-highlight">Open<span>WebStart</spa
 In the [feature-table](/feature-table) you can find the full list of planned features and their current state.
 All past releases and their release notes are listed on the [release page](https://github.com/karakun/OpenWebStart/releases).
 
+If you want to report any bugs or suggest enhancements, please use our [issue tracker](https://github.com/karakun/OpenWebStart/issues) on GitHub.
+
 #### Windows
 [OpenWebStart_windows-x64_1_0_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_windows-x64_1_0_0.zip)
 
