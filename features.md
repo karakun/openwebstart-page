@@ -263,21 +263,6 @@ You can download the current version in the [download area](/download).
         The details on how the integration can be established depend on the OS.
     </td>
 </tr>
-<tr class="feature-partially">
-    <td>AM-15</td>
-    <td>Installation on Mac</td>
-    <td>1</td>
-    <td>
-        OpenWebStart can install an application according to the preferences specified in the descriptor information.<br/>
-        JSR-56, Ch. 3.5<br/>
-        We will support:
-        <ul>
-            <li>Start Menu Entry</li>
-            <li>Default MIME type and file extension association</li>
-        </ul>
-        The details on how the integration can be established depend on the OS.
-    </td>
-</tr>
 <tr class="feature-done">
     <td>AM-16</td>
     <td>Application Start</td>
@@ -593,7 +578,7 @@ You can download the current version in the [download area](/download).
 </tr>
 
 <tr class="feature-missing">
-    <td>IE-1</td>
+    <td>SEC-9</td>
     <td>IE proxy configuration</td>
     <td>1</td>
     <td>
@@ -620,6 +605,21 @@ You can download the current version in the [download area](/download).
     <td>
         The JNLP file download attribute is used to control whether a resource is downloaded eagerly or lazily.<br/>
         JSR-56, Ch. 4.4
+    </td>
+</tr>
+<tr class="feature-partially">
+    <td>AM-15</td>
+    <td>Installation on Mac</td>
+    <td>1</td>
+    <td>
+        OpenWebStart can install an application according to the preferences specified in the descriptor information.<br/>
+        JSR-56, Ch. 3.5<br/>
+        We will support:
+        <ul>
+            <li>Start Menu Entry</li>
+            <li>Default MIME type and file extension association</li>
+        </ul>
+        The details on how the integration can be established depend on the OS.
     </td>
 </tr>
 <tr class="feature-missing">
