@@ -485,6 +485,14 @@ You can download the current version in the [download area](/download).
         JSR-56, Ch. 5.3"
     </td>
 </tr>
+<tr class="feature-done">
+    <td>SEC-9</td>
+    <td>IE proxy configuration</td>
+    <td>1</td>
+    <td>
+        OpenWebStart can read the proxy settings from IE. 
+    </td>
+</tr>
 
 <tr>
     <th colspan="4">JNLP Java API</th>
@@ -563,27 +571,6 @@ You can download the current version in the [download area](/download).
     <td>DownloadService2</td>
     <td>2</td>
     <td>Provide service implementation that allows an application to control how its own resources are cached.</td>
-</tr>
-
-</table>
-
-### Version 1.1
-
-<table class="feature-table">
-<tr>
-    <th>Identifier</th>
-    <th>Feature</th>
-    <th>Priority</th>
-    <th>Description</th>
-</tr>
-
-<tr class="feature-missing">
-    <td>SEC-9</td>
-    <td>IE proxy configuration</td>
-    <td>1</td>
-    <td>
-        OpenWebStart can read the proxy settings from IE. 
-    </td>
 </tr>
 
 </table>
