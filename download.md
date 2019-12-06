@@ -23,6 +23,7 @@ If you want to report any bugs or suggest enhancements, please use our [issue tr
 
 #### Windows
 [OpenWebStart_windows-x64_1_1_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.0/OpenWebStart_windows-x64_1_1_0.zip)
+
 [OpenWebStart_windows-x32_1_1_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.0/OpenWebStart_windows-x32_1_1_0.zip)
 
 #### Mac
