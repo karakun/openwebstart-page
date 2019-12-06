@@ -22,10 +22,11 @@ All past releases and their release notes are listed on the [release page](https
 If you want to report any bugs or suggest enhancements, please use our [issue tracker](https://github.com/karakun/OpenWebStart/issues) on GitHub.
 
 #### Windows
-[OpenWebStart_windows-x64_1_0_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_windows-x64_1_0_0.zip)
+[OpenWebStart_windows-x64_1_1_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.0/OpenWebStart_windows-x64_1_1_0.zip)
+[OpenWebStart_windows-x32_1_1_0.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.0/OpenWebStart_windows-x32_1_1_0.zip)
 
 #### Mac
-[OpenWebStart_macos_1_0_0.dmg](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_macos_1_0_0.dmg)
+[OpenWebStart_macos_1_1_0.dmg](https://github.com/karakun/OpenWebStart/releases/download/v1.1.0/OpenWebStart_macos_1_1_0.dmg)
 
 #### Linux
-[OpenWebStart_linux_1_0_0.deb](https://github.com/karakun/OpenWebStart/releases/download/v1.0.0/OpenWebStart_linux_1_0_0.deb)
+[OpenWebStart_linux_1_1_0.deb](https://github.com/karakun/OpenWebStart/releases/download/v1.1.0/OpenWebStart_linux_1_1_0.deb)

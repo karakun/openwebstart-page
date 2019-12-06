@@ -6,8 +6,8 @@ header:
 
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>18. Nov. 2019:</em><br/>
-We just released OpenWebStart 1.0.0.
+<em>6. Dec. 2019:</em><br/>
+We just released OpenWebStart 1.1.0.
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!
