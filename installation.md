@@ -21,8 +21,6 @@ nav:
 1. Go to the [download area](/download) and download an installer.
    * Chose the `OpenWebStart_windows-x64_1_1_1.zip` if you have a default Windows installation.
    * Chose the `OpenWebStart_windows-x32_1_1_1.zip` if you have a 32-bit Windows installation.
-   * Chose the `OpenWebStart_windows-x64_multi-user_1_1_1.zip` if your Windows us used by multiple different users.  
-     Note that this installer requires administrator privileges to install <span class="my-karakun">Open</span>WebStart.
 1. Run the installer.
 1. Choose a language and click **OK** to open the <span class="my-karakun">Open</span>WebStart Setup wizard. 
 1. Click **Next** to start the <span class="my-karakun">Open</span>WebStart installation.

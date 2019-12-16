@@ -6,9 +6,9 @@ header:
 
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>9. Dec. 2019:</em><br/>
+<em>16. Dec. 2019:</em><br/>
 We just released OpenWebStart 1.1.1.
-This release improves proxy support on all platforms and adds a new multi-user installer for Windows.
+This release improves proxy support on all platforms and adds optional multi-user installation.
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!
