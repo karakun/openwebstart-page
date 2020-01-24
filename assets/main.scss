@@ -109,6 +109,10 @@ body {
     align-items: center;
 }
 
+.navbar-seperator {
+    padding-left: 1em;
+}
+
 nav {
     + .page-wrapper {
         margin-top: 2em;

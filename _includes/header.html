@@ -10,8 +10,8 @@
       </a>
   </div>
     <div class="navbar-menu" id="main-menu">
-      <div class="navbar-start">
-      {% if page.title == my_page.title %}
+      <div class="navbar-end">
+        {% if page.title == my_page.title %}
         <a class="navbar-item is-active" href="{{ "/" | relative_url }}">Home</a>
       {% else %}
         <a class="navbar-item" href="{{ "/" | relative_url }}">Home</a>
@@ -29,10 +29,9 @@
         {%- endif -%}
       {%- endif -%}
     {%- endfor -%}
-    </div>
-    <div class="navbar-end">
+    <div class="navbar-seperator"></div>
     <div class="navbar-item">
-      <span class="icon is-medium"><a class="navbar-item" href="https://github.com/karakun/OpenWebStart"><i class="fab fa-lg fa-github"></i></a></span>
+      <span class="icon is-medium"><a class="navbar-item" href="https://github.com/karakun/OpenWebStart" title="Find us on GitHub" alt="Find us on GitHub"><i class="fab fa-lg fa-github"></i></a></span>
     </div>
   </div>
     </div>
