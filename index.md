@@ -6,8 +6,8 @@ header:
 
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>27. Jan. 2020:</em><br/>
-We just released OpenWebStart 1.1.3.
+<em>28. Jan. 2020:</em><br/>
+We just released OpenWebStart 1.1.4.
 This release improves proxy support and adds remote debugging capabilities.
 </div>
 
