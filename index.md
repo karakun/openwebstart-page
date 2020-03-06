@@ -6,9 +6,9 @@ header:
 
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>28. Jan. 2020:</em><br/>
-We just released OpenWebStart 1.1.4.
-This release improves proxy support and adds remote debugging capabilities.
+<em>09. March 2020:</em><br/>
+We just released OpenWebStart 1.1.5.
+This is a bug fix release. See the release notes on <a href="https://github.com/karakun/OpenWebStart/releases" target="_blank">github</a> for further details.
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!
