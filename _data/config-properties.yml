@@ -49,3 +49,11 @@
 - name: 'deployment.https.noenforce'
   description: 'If set to true http urls are not converted to https. Default is false'
   lockable: true
+
+- name: 'deployment.log'
+  description: 'If set to true debug logging is enabled. Default is false'
+  lockable: false
+
+- name: 'deployment.log.file'
+  description: 'If set to true log is outputted to file. Default is false'
+  lockable: false
