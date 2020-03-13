@@ -15,6 +15,11 @@
   be downloaded. You can use ''*'' to allow any vendor.'
   lockable: true
 
+- name: 'ows.jvm.manager.vendor.allowFromJnlp'
+  description: 'Defines if a vendor attribute in a java/j2se tag of the JNLP file should be
+  respected. Default is false i.e. the vendor from the settings is taken.'
+  lockable: true
+
 - name: 'ows.jvm.manager.updateStrategy'
   description: 'When starting a JNLP application, OpenWebStart can check if an updated JVM is
   available to run the application. This property defines how OpenWebstart behaves in the JVM check.
