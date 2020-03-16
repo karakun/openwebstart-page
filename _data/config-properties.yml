@@ -1,5 +1,12 @@
 # Data file that defines all properties that can be provided at installation time.
 
+- name: 'ows.jvm.manager.cache.dir'
+  description: 'Allows to specify the directory where the JVM cache is located.
+  The follow example shows two examples for Windows:
+  ```ows.jvm.manager.cache.dir=c:\\temp\\JVMCacheDir``` or
+  ```ows.jvm.manager.cache.dir=c\:/temp/JVMCacheDir```'
+  lockable: true
+
 - name: 'ows.jvm.manager.server.default'
   description: 'This property must contain a valid URL that defines the server that is used
   to download new JVMs.'
@@ -13,6 +20,11 @@
 - name: 'ows.jvm.manager.vendor'
   description: 'Defines a specifc JVM vendor. By doing so, only JVMs from that vendor will
   be downloaded. You can use ''*'' to allow any vendor.'
+  lockable: true
+
+- name: 'ows.jvm.manager.vendor.allowFromJnlp'
+  description: 'Defines if a vendor attribute in a java/j2se tag of the JNLP file should be
+  respected. Default is false i.e. the vendor from the settings is taken.'
   lockable: true
 
 - name: 'ows.jvm.manager.updateStrategy'
