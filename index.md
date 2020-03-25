@@ -16,28 +16,9 @@ Java Web Start (JWS) was deprecated in Java 9, and starting with Java 11, Oracle
 This means that clients that have the latest version of Java installed can no longer use JWS-based applications.
 And since public support of Java 8 has ended in Q2/2019, companies no longer get any updates and security fixes for Java Web Start.
 
-This is why we decided to create <span class="text-highlight">Open<span>WebStart</span></span>, an open source reimplementation of the Java Web Start technology.
-Our replacement will provide the most commonly used features of Java Web Start and the JNLP standard, 
+This is why we decided to create <span class="text-highlight">Open<span>WebStart</span></span>, an open source reimplementation of the Java Web Start technology. Our replacement provides the most commonly used features of Java Web Start and the JNLP standard, 
 so that your customers can continue using applications based on Java Web Start and JNLP without any change.
 
-For more information about the removal of Java Web Start, have a look at these documents:
-
-* [Official Java desktop roadmap from Oracle](https://www.oracle.com/technetwork/java/javase/javaclientroadmapupdate2018mar-4414431.pdf)
-* [DZone article about the consequences for Java desktop applications](https://dzone.com/articles/what-the-future-java-releases-will-mean-for-legacy)
-* [Do I need to pay for Java now?](https://dev.karakun.com/java/2018/06/25/java-releases.html)
-
-![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
-
-### Enjoy premium support!
-Java and your operating system get updates, and so does <span class="text-highlight">Open<span>WebStart</span></span>.
-We always have your back with current developments: talk to us about a support subscription at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
-
-### We keep you in the loop!
-Want to learn more and stay up-to-date with the project?
-
-<a class="button is-medium full-width-button is-primary" href="/subscribe/">Subscribe to our newsletter</a>
-
-### What does OpenWebStart include?
 The main focus of <span class="text-highlight">Open<span>WebStart</span></span> is the execution of JNLP-based applications.
 Additionally, the tool contains four modules that simplify your Web Start workflows
 and let you configure <span class="text-highlight">Open<span>WebStart</span></span> to suit your needs:
@@ -48,14 +29,47 @@ and let you configure <span class="text-highlight">Open<span>WebStart</span></sp
 - The **Updater** downloads and installs new versions of <span class="text-highlight">Open<span>WebStart</span></span>.
 
 You’re a developer and want to take a closer look at our source repo? [Visit our GitHub](https://github.com/karakun/openwebstart) and let us know what you think.
- 
-### OpenWebStart Roadmap
-We have been able to secure a good part of the required funding, and 
-we and our sponsors are currently discussing the list of features that we are going to implement.
-Our goal is to have the final release 1.0 ready in November.
 
-The following diagram shows the roadmap:
+![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
 
-![roadmap]({{ "/assets/images/webstart/roadmap-karakun.png" | relative_url }})
+### Support the OpenWebStart project
+Java and your operating system get updates, and so does OpenWebStart. Thanks to the support of our [awesome
+sponsors](/sponsors), OpenWebStart will be updated and further developed as long as needed.
 
-![rocket]({{ "/assets/images/webstart/rocket.png" | relative_url }})
+You can of course use <span class="text-highlight">Open<span>WebStart</span></span> as an open source solution free of charge but we‘d also like to talk to you about support options to guarantee the lasting development.
+
+<div class="boxes teaser highlight">
+  <div><span class="boxes-heading">Community Support</span>
+	<ul>
+		<li>Report bugs using the GitHub Issue Tracker</li>
+		<li>Bugs are fixed as soon as possible</li>
+	</ul>
+	</div>
+  <div><span class="boxes-heading">Basic Support & Sponsoring</span>
+	<ul>
+		<li>Special support email address to report bugs</li>
+		<li>Bugs have a higher priority but no guaranteed service levels</li>
+		<li>10% discount for development of individual features</li>
+		<li>Company logo can be published on OpenWebStart sponsor page (basic sponsor)</li>
+	</ul>
+		</div>
+  <div><span class="boxes-heading">Premium Support & Sponsoring</span>
+	<ul>
+		<li>Premium communication channel for bug reports</li>
+		<li>Bugs have highest priority</li>
+		<li>Guaranteed service levels depending on severity of bug (during business hours)</li>
+		<li>After bug fix, we provide a corresponding release</li>
+		<li>25% discount for development of individual features</li>
+		<li>Company logo can be published on OpenWebStart sponsor page (premium sponsor)</li>
+	</ul>
+		</div>
+</div>
+
+Talk to us about your individual support package at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
+
+![divider]({{ "/assets/images/webstart/divider-2.png" | relative_url }})
+
+### We keep you in the loop!
+Want to learn more and stay up-to-date with the project?
+
+<a class="button is-medium full-width-button is-primary" href="/subscribe/">Subscribe to our newsletter</a>
