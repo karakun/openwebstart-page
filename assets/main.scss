@@ -126,7 +126,6 @@ footer {
         padding-bottom: 0em;
     }
     .boxes {
-        display: flex;
         justify-content: space-between;
         @include mobile {
             flex-direction: column;
@@ -325,6 +324,40 @@ p {
 
 .column {
     padding: 0.75rem 1.25rem;
+}
+
+.boxes{
+	display: flex;
+	&.teaser {
+    	width: 100%;
+    	justify-content: space-between;
+		> div {
+			padding: 1.5rem;
+			margin: 1rem;
+			flex-grow: 1;
+		}
+		&.highlight {
+			>div {
+				background-color: #f2f2f2;
+			}
+		}
+		&.blueandwhite {
+			>div {
+				background-color: #124363;
+				color: white;
+			}
+		}
+
+	}
+}
+
+.boxes-heading{
+	line-height: 1;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+	font-family: 'Encode Sans', sans-serif;
+    font-weight: bold;
+	color: $karakun-main-color;
 }
 
 article.post {
@@ -631,13 +664,14 @@ fieldset label {
 .latest-news {
     float: right;
     width: 350px;
-    border: solid thin #363636;
-    margin: 0 2.5em 2.5em;
-    padding: 1.5em;
+	margin: 0 2.5em 2.5em;
+    padding: 1.5rem;
+	background-color: #f2f2f2;
 }
 
 .latest-news h4 {
-    margin-top: 0;
+	margin-top: 0;
+	color: $karakun-main-color;
 }
 
 .github-ribbon {
