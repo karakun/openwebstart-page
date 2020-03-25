@@ -6,7 +6,7 @@ permalink: /sponsors/
 header:
   text: Sponsors of <span class="my-karakun">Open</span>WebStart
 nav:
-  bottom: true
+  bottom: false
 ---
 
 ## Sponsors

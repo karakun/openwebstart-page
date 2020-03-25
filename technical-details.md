@@ -7,7 +7,8 @@ permalink: /technical-details/
 header:
   text: The functionality of <span class="my-karakun">Open</span>WebStart
 nav:
-  bottom: false
+   bottom: false
+   
 ---
 
 ## Technical details

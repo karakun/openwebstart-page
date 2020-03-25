@@ -6,7 +6,7 @@ permalink: /feature-table/
 header:
   text: <span class="my-karakun">Open</span>WebStart Features
 nav:
-  bottom: true
+  bottom: false
 ---
 
 ## Features
