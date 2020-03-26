@@ -101,7 +101,7 @@ body {
 .page-wrapper {
     flex: 1;
     @include mobile {
-        padding: 0 0.5rem;
+        padding: 0 0.75rem;
     }
 }
 
@@ -327,7 +327,10 @@ p {
 }
 
 .boxes{
-	display: flex;
+    display: flex;
+    @include mobile {
+        flex-direction: column;
+    }
 	&.teaser {
     	width: 100%;
     	justify-content: space-between;
@@ -662,11 +665,13 @@ fieldset label {
 }
 
 .latest-news {
-    float: right;
-    width: 350px;
-	margin: 0 2.5em 2.5em;
     padding: 1.5rem;
-	background-color: #f2f2f2;
+    background-color: #f2f2f2;
+    @include desktop {
+        margin: 0 2.5em 2.5em;
+        float: right;
+        width: 350px;
+    }
 }
 
 .latest-news h4 {
