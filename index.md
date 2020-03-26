@@ -39,13 +39,15 @@ sponsors](/sponsors), OpenWebStart will be updated and further developed as long
 You can of course use <span class="text-highlight">Open<span>WebStart</span></span> as an open source solution free of charge but we‘d also like to talk to you about support options to guarantee the lasting development.
 
 <div class="boxes teaser highlight">
-  <div><span class="boxes-heading">Community Support</span>
+  <div>
+  	<span class="boxes-heading">Community Support</span>
 	<ul>
 		<li>Report bugs using the GitHub Issue Tracker</li>
 		<li>Bugs are fixed as soon as possible</li>
 	</ul>
 	</div>
-  <div><span class="boxes-heading">Basic Support & Sponsoring</span>
+  <div>
+  	<span class="boxes-heading">Basic Support & Sponsoring</span>
 	<ul>
 		<li>Special support email address to report bugs</li>
 		<li>Bugs have a higher priority but no guaranteed service levels</li>
@@ -53,7 +55,8 @@ You can of course use <span class="text-highlight">Open<span>WebStart</span></sp
 		<li>Company logo can be published on OpenWebStart sponsor page (basic sponsor)</li>
 	</ul>
 		</div>
-  <div><span class="boxes-heading">Premium Support & Sponsoring</span>
+  <div>
+  	<span class="boxes-heading">Premium Support & Sponsoring</span>
 	<ul>
 		<li>Premium communication channel for bug reports</li>
 		<li>Bugs have highest priority</li>
