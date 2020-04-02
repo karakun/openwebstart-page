@@ -96,10 +96,8 @@ To associate .JNLP applications with <span class="my-karakun">Open</span>WebStar
    <br />The installer creates a response file that stores the options that you have chosen in the installer.
 1. Locate the response file and copy it next to the <span class="my-karakun">Open</span>WebStart installer:
    * For Windows: `C:\Program Files\OpenWebStart\.install4j\response.varfile`
-   * For macOS: `/Applications/Open Web Start/.install4j/response.varfile`
 1. Run the installer again from the command line with the parameter `-q -varfile response.varfile` to execute an unattended installation.
    * For Windows: `OpenWebStart_windows_Setup.exe -q -varfile response.varfile`
-   * For macOS: `sudo Open\ Web\ Start\ Installer.app -q -varfile response.varfile`
 
 When using the unattended installation several configuration properties can be defined in the
 `response.varfile` file. You can find an overview of the supported properties
