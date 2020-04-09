@@ -33,6 +33,74 @@
   Possible values are DO_NOTHING_ON_LOCAL_MATCH, ASK_FOR_UPDATE_ON_LOCAL_MATCH and AUTOMATICALLY_DOWNLOAD'
   lockable: true
 
+- name: 'ows.jvm.manager.versionRange'
+  description: 'Allows to limit the possible JVM versions. Must be valid version-string according to JSR-56 Appendix A.'
+  lockable: true
+
+- name: 'deployment.proxy.http.host'
+  description: 'The HTTP proxy hostname.'
+  lockable: true
+
+- name: 'deployment.proxy.https.host'
+  description: 'The HTTPS proxy hostname.'
+  lockable: true
+
+- name: 'deployment.proxy.http.port'
+  description: 'The HTTP proxy port.'
+  lockable: true
+
+- name: 'deployment.proxy.https.port'
+  description: 'The HTTPS proxy port.'
+  lockable: true
+
+- name: 'deployment.proxy.bypass.local'
+  description: 'All local hosts should be bypassed. Default is false.'
+  lockable: true
+
+- name: 'deployment.proxy.bypass.list'
+  description: 'A comma separated list of host names that should bypass the proxy.'
+  lockable: true
+
+- name: 'deployment.proxy.type'
+  description: 'The proxy type that should be used. Possible values are 0 (no proxy), 1 (manual proxy, default), 2 (PAC based proxy), 3 (Firefox), 4 (system proxy)'
+  lockable: true
+
+- name: 'deployment.proxy.auto.config.url'
+  description: 'The URL for the proxy auto-config (PAC) file that will be used.'
+  lockable: true
+
+- name: 'deployment.proxy.same'
+  description: 'If true use the same web server and port for https and ftp as is configured for http. (This is only valid if deployment.proxy.type = 1 (manual proxy). Default is false.'
+  lockable: true
+
+- name: 'deployment.cache.max.size'
+  description: 'The cache maximum size. Default is -1'
+  lockable: true
+
+- name: 'deployment.https.noenforce'
+  description: 'If set to true http urls are not converted to https. Default is false.'
+  lockable: true
+
+- name: 'deployment.assumeFileSystemInCodebase'
+  description: 'Defines if files from the local filesystem are always handled as if they would be part of the codebase.'
+  lockable: true
+
+- name: 'deployment.security.whitelist'
+  description: 'A comma separated list of urls that are defined as whitelist. The whitelist is checked whenever OpenWebStart will download a resource (like a JAR file).'
+  lockable: false
+
+- name: 'ows.jvm.manager.maxDaysUnusedInJvmCache'
+  description: 'Max number of days an unused JVM stays in the JVM cache. The default is 30.'
+  lockable: true
+
+- name: 'deployment.log'
+  description: 'If set to true debug logging is enabled. Default is false'
+  lockable: false
+
+- name: 'deployment.log.file'
+  description: 'If set to true log is outputted to file. Default is false'
+  lockable: false
+
 - name: 'ows.update.activated'
   description: 'Defines if OpenWebStart should automatically search for updates.'
   lockable: true
@@ -49,23 +117,3 @@
 - name: 'ows.update.strategy.launch'
   description: 'Defines how often OpenWebStart should search for updates when starting an application. Allowed values are ON_EVERY_START, DAILY, WEEKLY, MONTHLY, and NEVER.'
   lockable: true
-
-- name: 'deployment.security.whitelist'
-  description: 'A comma seperated list of urls that are defined as whitelist. The whitelist is checked whenever OpenWebStart will download a ressource (like a JAR file).'
-  lockable: false
-
-- name: 'deployment.assumeFileSystemInCodebase'
-  description: 'Defines if files from the local filesystem are always handled as if they would be part of the codebase.'
-  lockable: true
-
-- name: 'deployment.https.noenforce'
-  description: 'If set to true http urls are not converted to https. Default is false'
-  lockable: true
-
-- name: 'deployment.log'
-  description: 'If set to true debug logging is enabled. Default is false'
-  lockable: false
-
-- name: 'deployment.log.file'
-  description: 'If set to true log is outputted to file. Default is false'
-  lockable: false

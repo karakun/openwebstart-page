@@ -9,9 +9,11 @@ nav:
 
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>16. March 2020:</em><br/>
-We just released OpenWebStart 1.1.6.
-This release provides improvements when using OpenWebStart in centralized environments and doing unattended installations. It also fixes a bug appeared in v1.1.5 that prevents properly reading the server white list. See also the release notes on <a href="https://github.com/karakun/OpenWebStart/releases" target="_blank">github</a> for further details.
+<em>9. April 2020:</em><br/>
+We just released OpenWebStart 1.1.7.
+This release adds support for tar.gz archives and sub-directories in archives of JVMs.
+
+See the <a href="https://github.com/karakun/OpenWebStart/releases/tag/v1.1.7" target="_blank">release notes on github</a> for further details.
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!
@@ -52,7 +54,7 @@ You can of course use <span class="text-highlight">Open<span>WebStart</span></sp
   <div>
   	<span class="boxes-heading">Basic Support & Sponsoring</span>
 	<ul>
-		<li>Special support email address to report bugs</li>
+		<li>Special communication channel to report bugs</li>
 		<li>Bugs have a higher priority but no guaranteed service levels</li>
 		<li>10% discount for development of individual features</li>
 		<li>Company logo can be published on OpenWebStart sponsor page (basic sponsor)</li>
