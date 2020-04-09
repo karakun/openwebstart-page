@@ -52,7 +52,7 @@ You can of course use <span class="text-highlight">Open<span>WebStart</span></sp
   <div>
   	<span class="boxes-heading">Basic Support & Sponsoring</span>
 	<ul>
-		<li>Special support email address to report bugs</li>
+		<li>Special communication channel to report bugs</li>
 		<li>Bugs have a higher priority but no guaranteed service levels</li>
 		<li>10% discount for development of individual features</li>
 		<li>Company logo can be published on OpenWebStart sponsor page (basic sponsor)</li>
