@@ -10,7 +10,10 @@ nav:
 <div class="latest-news">
 <h4>Latest news</h4>
 <em>9. April 2020:</em><br/>
-We just released OpenWebStart 1.1.7 See the release notes on <a href="https://github.com/karakun/OpenWebStart/releases" target="_blank">github</a> for further details.
+We just released OpenWebStart 1.1.7.
+This release adds support for tar.gz archives and sub-directories in archives of JVMs.
+
+See the <a href="https://github.com/karakun/OpenWebStart/releases/tag/v1.1.7" target="_blank">release notes on github</a> for further details.
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!
