@@ -9,9 +9,8 @@ nav:
 
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>16. March 2020:</em><br/>
-We just released OpenWebStart 1.1.6.
-This release provides improvements when using OpenWebStart in centralized environments and doing unattended installations. It also fixes a bug appeared in v1.1.5 that prevents properly reading the server white list. See also the release notes on <a href="https://github.com/karakun/OpenWebStart/releases" target="_blank">github</a> for further details.
+<em>9. April 2020:</em><br/>
+We just released OpenWebStart 1.1.7 See the release notes on <a href="https://github.com/karakun/OpenWebStart/releases" target="_blank">github</a> for further details.
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!
