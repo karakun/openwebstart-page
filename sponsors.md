@@ -24,7 +24,7 @@ nav:
 
 <a href="https://www.daimler.com/"><img class="spo-logo" src="/assets/images/organisations/Daimler_Logotype.png" alt="Daimler AG"></a>
 
-<a href="https://www.ibttn.it/"><img class="spo-logo" src="/assets/images/organisations/ibt.png" alt="Informatica Bancaria Trentina srl"></a>
+<a href="https://www.allitude.it/"><img class="spo-logo" src="/assets/images/organisations/allitude.jpg" alt="Informatica Bancaria Trentina srl"></a>
 
 <a href="https://www.lvm.de/"><img class="spo-logo" src="/assets/images/organisations/lvm.svg" alt="LVM Versicherung"></a>
 
