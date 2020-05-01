@@ -47,27 +47,27 @@ You can of course use <span class="text-highlight">Open<span>WebStart</span></sp
   <div>
   	<span class="boxes-heading">Community Support</span>
 	<ul>
-		<li>Report bugs using the GitHub Issue Tracker</li>
+		<li>Report bugs via the public <a href="https://board.karakun.com" target="_blank">support forum</a> or using the <a href="https://github.com/karakun/OpenWebStart/issues" target="_blank">GitHub Issue Tracker</a></li>
 		<li>Bugs are fixed as soon as possible</li>
 	</ul>
 	</div>
   <div>
   	<span class="boxes-heading">Basic Support & Sponsoring</span>
 	<ul>
-		<li>Special communication channel to report bugs</li>
-		<li>Bugs have a higher priority but no guaranteed service levels</li>
-		<li>10% discount for development of individual features</li>
+		<li><span style="font-weight: bold;">Special</span> communication channel to report bugs (via <a href="https://board.karakun.com" target="_blank">support forum)</a></li>
+		<li>Bugs have a <span style="font-weight: bold;">higher priority</span> but no guaranteed service levels</li>
+		<li><span style="font-weight: bold;">10% discount</span> for development of individual features</li>
 		<li>Company logo can be published on OpenWebStart sponsor page (basic sponsor)</li>
 	</ul>
 		</div>
   <div>
   	<span class="boxes-heading">Premium Support & Sponsoring</span>
 	<ul>
-		<li>Premium communication channel for bug reports</li>
-		<li>Bugs have highest priority</li>
-		<li>Guaranteed service levels depending on severity of bug (during business hours)</li>
+		<li><span style="font-weight: bold;">Premium</span> communication channel for bug reports (via <a href="https://board.karakun.com" target="_blank">support forum)</a></li>
+		<li>Bugs have <span style="font-weight: bold;">highest</span> priority</li>
+		<li><span style="font-weight: bold;">Guaranteed service levels</span> depending on severity of bug (during business hours)</li>
 		<li>After bug fix, we provide a corresponding release</li>
-		<li>25% discount for development of individual features</li>
+		<li><span style="font-weight: bold;">25% discount</span> for development of individual features</li>
 		<li>Company logo can be published on OpenWebStart sponsor page (premium sponsor)</li>
 	</ul>
 		</div>
