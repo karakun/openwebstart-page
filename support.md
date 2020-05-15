@@ -10,15 +10,23 @@ nav:
   bottom: false
 ---
 
+<div class="wrapper">
+  <div class="latest-news">
+	  <h4>Important contact information</h4>
+	If you're having technical questions please use the <a href="https://board.karakun.com/viewforum.php?f=21" target="_blank">community support forum</a>. Customers with Basic or Premium Support contract should use <a href="https://board.karakun.com/viewforum.php?f=5" target="_blank">Premium Support forum</a>.<br/><br/>
+	For commercial questions please write an email at <a href="mailto:openwebstart@karakun.com">openwebstart@karakun.com</a>. Please do not post technical questions to this email, use the forum instead.
+	</div>
+</div>
+
 # OWS Support Forum
 
-The most easiest way is our new support forum. Visit [https://board.karakun.com](https://board.karakun.com) to access the forum.
-
-<a href="https://board.karakun.com" target="_blank">![Support Forum](/assets/images/webstart/OWS-Board.png)</a>
+The easiest way is our new support forum. Visit [https://board.karakun.com](https://board.karakun.com) to access the forum.
 
 The OpenWebStart Support Forum is available 24/7 and thus is the ideal platform for you to find answers to all OWS-related issues. With this board, you profit from a single point of contact to our support team as well as quick and straightforward help by the community. 
 
 Besides all that, you will also find lots of interesting and useful announcements and posts, e.g. release notes, links to external resources, paid support options, etc.
+
+<a href="https://board.karakun.com" target="_blank">![Support Forum](/assets/images/webstart/OWS-Board.png)</a>
 
 # Community Support
 

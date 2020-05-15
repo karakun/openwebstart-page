@@ -7,13 +7,22 @@ nav:
   
 ---
 
+<div class="wrapper">
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>9. April 2020:</em><br/>
-We just released OpenWebStart 1.1.7.
-This release adds support for tar.gz archives and sub-directories in archives of JVMs.
+<em>May 6, 2020:</em><br/>
+We officially launched the OpenWebStart support forum. Visit <a href="https://board.karakun.com" target="_blank">board.karakun.com</a> and get your personal account.
+</div>
 
-See the <a href="https://github.com/karakun/OpenWebStart/releases/tag/v1.1.7" target="_blank">release notes on github</a> for further details.
+<div class="latest-news">
+<h4>Contact</h4>
+<b>Technical questions</b><br/><br/>
+<em>Community user</em><br/>
+<a href="https://board.karakun.com/viewforum.php?f=21" target="_blank">Community Support forum</a><br><br>
+<em>Premium support customers</em><br/>
+<a href="https://board.karakun.com/viewforum.php?f=5" target="_blank">Premium Support forum</a><br><br>
+For commercial questions please write an email at <a href="mailto:openwebstart@karakun.com">openwebstart@karakun.com</a>. Please do not post technical questions to this email, use the forum instead.	
+</div>
 </div>
 
 ## Java Web Start is dead. Long live Java Web Start!

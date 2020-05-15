@@ -665,12 +665,17 @@ fieldset label {
     width: 25%;
 }
 
+.wrapper {
+	float: right;
+	padding: 1.5rem;
+	width: 400px;
+}
+
 .latest-news {
     padding: 1.5rem;
     background-color: #f2f2f2;
     @include desktop {
         margin: 0 2.5em 2.5em;
-        float: right;
         width: 350px;
     }
 }
