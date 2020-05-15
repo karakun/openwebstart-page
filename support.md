@@ -13,7 +13,7 @@ nav:
 <div class="wrapper">
   <div class="latest-news">
 	  <h4>Important contact information</h4>
-	If you're having technical questions please use the <a href="https://board.karakun.com/viewforum.php?f=21" target="_blank">community support forum</a>. Customers with Basic or Premium Support should use <a href="https://board.karakun.com/viewforum.php?f=5" target="_blank">Premium Support forum</a>.<br/><br/>
+	If you're having technical questions please use the <a href="https://board.karakun.com/viewforum.php?f=21" target="_blank">community support forum</a>. Customers with Basic or Premium Support contract should use <a href="https://board.karakun.com/viewforum.php?f=5" target="_blank">Premium Support forum</a>.<br/><br/>
 	For commercial questions please write an email at <a href="mailto:openwebstart@karakun.com">openwebstart@karakun.com</a>. Please do not post technical questions to this email, use the forum instead.
 	</div>
 </div>
