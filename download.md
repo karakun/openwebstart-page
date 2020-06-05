@@ -29,19 +29,19 @@ All past releases and their release notes are listed on the [release page](https
 If you want to report any bugs or suggest enhancements, please use our [issue tracker](https://github.com/karakun/OpenWebStart/issues) on GitHub.
 
 #### Windows
-[OpenWebStart_windows-x64_1_1_7.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.7/OpenWebStart_windows-x64_1_1_7.zip)
+[OpenWebStart_windows-x64_1_1_8.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.8/OpenWebStart_windows-x64_1_1_8.zip)
 
-[OpenWebStart_windows-x32_1_1_7.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.7/OpenWebStart_windows-x32_1_1_7.zip)
+[OpenWebStart_windows-x32_1_1_8.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.8/OpenWebStart_windows-x32_1_1_8.zip)
 
 OS compatibility: Windows 10 and higher. (*)
 
 #### Mac
-[OpenWebStart_macos_1_1_7.dmg](https://github.com/karakun/OpenWebStart/releases/download/v1.1.7/OpenWebStart_macos_1_1_7.dmg)
+[OpenWebStart_macos_1_1_8.dmg](https://github.com/karakun/OpenWebStart/releases/download/v1.1.8/OpenWebStart_macos_1_1_8.dmg)
 
 OS compatibility: MacOS 10.15 (Catalina) or higher. (*)
 
 #### Linux
-[OpenWebStart_linux_1_1_7.deb](https://github.com/karakun/OpenWebStart/releases/download/v1.1.7/OpenWebStart_linux_1_1_7.deb)
+[OpenWebStart_linux_1_1_8.deb](https://github.com/karakun/OpenWebStart/releases/download/v1.1.8/OpenWebStart_linux_1_1_8.deb)
 
 OS compatibility: Ubuntu 18.04 LTS or higher. (*)
 
