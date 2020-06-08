@@ -62,6 +62,7 @@ You can of course use <span class="text-highlight">Open<span>WebStart</span></sp
 		<li>Bugs have <span style="font-weight: bold;">highest</span> priority</li>
 		<li><span style="font-weight: bold;">Guaranteed service levels</span> depending on severity of bug (during business hours)</li>
 		<li>After bug fix, we provide a corresponding release</li>
+		<li>Possibility to get <span style="font-weight: bold;">custom installer</span> with company logo</li>
 		<li><span style="font-weight: bold;">25% discount</span> for development of individual features</li>
 		<li>Company logo can be published on OpenWebStart sponsor page (premium sponsor)</li>
 	</ul>
