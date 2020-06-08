@@ -10,8 +10,9 @@ nav:
 <div class="wrapper">
 <div class="latest-news">
 <h4>Latest news</h4>
-<em>May 6, 2020:</em><br/>
-We officially launched the OpenWebStart support forum. Visit <a href="https://board.karakun.com" target="_blank">board.karakun.com</a> and get your personal account.
+<em>June 8, 2020:</em><br/>
+We just released OpenWebStart 1.1.8.
+This release contains small bug fixes and improvements. See also the release notes on <a href="https://github.com/karakun/OpenWebStart/releases" target="_blank">github</a> for further details.
 </div>
 
 <div class="latest-news">
@@ -21,7 +22,9 @@ We officially launched the OpenWebStart support forum. Visit <a href="https://bo
 <a href="https://board.karakun.com/viewforum.php?f=21" target="_blank">Community Support forum</a><br><br>
 <em>Premium support customers</em><br/>
 <a href="https://board.karakun.com/viewforum.php?f=5" target="_blank">Premium Support forum</a><br><br>
-For commercial questions please write an email at <a href="mailto:openwebstart@karakun.com">openwebstart@karakun.com</a>. Please do not post technical questions to this email, use the forum instead.	
+<b>Commercial questions</b><br/><br/>
+Please write an email to <a href="mailto:openwebstart@karakun.com">openwebstart@karakun.com</a>.<br><br>
+Please do not post technical questions to this email, use the forum instead.
 </div>
 </div>
 
