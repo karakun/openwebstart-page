@@ -10,7 +10,8 @@ nav:
 ---
 
 ## Features
-On this page you can find the [roadmap](#roadmap), the [releases](#releases) with their features, and some of the missing [optional features](#optional-features) that you can sponsor.
+On this page you can find the [roadmap](#roadmap), the [releases](#releases) with their features, and some of the [missing features](#unscheduled-features) that you can sponsor.
+
 You can download the current version of <span class="text-highlight">Open<span>WebStart</span></span> in the [download area](/download).
 
 ### Roadmap
@@ -474,7 +475,7 @@ More pre-releases are planned during the next months.
 
 </table>
 
-### Optional Features
+### Unscheduled Features
 
 These features are currently not scheduled for development.
 If you would like to sponsor the development, please get in touch with us at [OpenWebStart@karakun.com](mailto:openwebstart@karakun.com).
