@@ -10,7 +10,7 @@ nav:
 ---
 
 ## Features
-On this page you can find the [roadmap](#roadmap), the [releases](#releases) with their features, and some of the missing [optional features](#optional-features) which development you can sponsor.
+On this page you can find the [roadmap](#roadmap), the [releases](#releases) with their features, and some of the missing [optional features](#optional-features) that you can sponsor.
 You can download the current version of <span class="text-highlight">Open<span>WebStart</span></span> in the [download area](/download).
 
 ### Roadmap
