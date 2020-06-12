@@ -18,8 +18,10 @@ You can download the current version of <span class="text-highlight">Open<span>W
 ![OpenWebStart Roadmap]({{ "/assets/images/webstart/WebStart-Roadmap.png" | relative_url }})
 
 After the release of OpenWebStart 1.1.9, we will switch to a fixed release-cycle with new releases coming out in early May and early November.
+These are bugfix-releases, which do not contain new features.
 
 In parallel we are working on the next major release OpenWebStart 3.0.
+New features are developed in this branch.
 We will release the second alpha-release shortly.
 More pre-releases are planned during the next months.
 
