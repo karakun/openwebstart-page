@@ -10,8 +10,20 @@ nav:
 ---
 
 ## Features
-This is the list of features of <span class="text-highlight">Open<span>WebStart</span></span> that we are going to implement, with their priority and their current state.
-You can download the current version in the [download area](/download).
+On this page you can find the [roadmap](#roadmap), the [releases](#releases) with their features, and some of the [missing features](#missing) which development you can sponsor.
+You can download the current version of <span class="text-highlight">Open<span>WebStart</span></span> in the [download area](/download).
+
+### Roadmap
+
+![OpenWebStart Roadmap]({{ "/assets/images/webstart/WebStart-Roadmap.png" | relative_url }})
+
+After the release of OpenWebStart 1.1.9, we will switch to a fixed release-cycle with new releases coming out in early May and early November.
+
+In parallel we are working on the next major release OpenWebStart 3.0.
+We will release the second alpha-release shortly.
+More pre-releases are planned during the next months.
+
+### Releases
 
 ### Version 1.0
 
