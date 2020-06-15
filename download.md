@@ -28,6 +28,8 @@ All past releases and their release notes are listed on the [release page](https
 
 If you want to report any bugs or suggest enhancements, please use our [issue tracker](https://github.com/karakun/OpenWebStart/issues) on GitHub.
 
+Last but not least, you can find the [sources](https://github.com/karakun/openwebstart) on GitHub, too.
+
 #### Windows
 [OpenWebStart_windows-x64_1_1_8.zip](https://github.com/karakun/OpenWebStart/releases/download/v1.1.8/OpenWebStart_windows-x64_1_1_8.zip)
 
