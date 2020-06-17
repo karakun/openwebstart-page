@@ -55,3 +55,10 @@ ows.jvm.manager.server.default.locked=true
 {% endhighlight %}
 
 If you now use such a file to install <span class="my-karakun">Open</span>WebStart, all the properties will be automatically imported and used at the first start of <span class="my-karakun">Open</span>WebStart.
+
+## Updating settings
+It is possible to update the settings with a new installation (i.e. of a new version).
+* To update a value simply put the new value in the response.varfile.
+* To leave the value unchanged omit the corresponding key from the response.varfile.
+* To clear a value add an empty value to the response.varfile (e.g. `ows.server=`)
+* To unlock a previously locked property add a `xxx.locked=false` entry to the response.varfile
