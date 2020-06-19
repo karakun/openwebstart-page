@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Features
+title: Features/Roadmap
 order: '12'
 permalink: /feature-table/
 header:
@@ -450,6 +450,32 @@ More pre-releases are planned during the next months.
     <td>1</td>
     <td>
         OpenWebStart can read the proxy settings from IE. 
+    </td>
+</tr>
+
+</table>
+
+#### Version 1.2
+
+<table class="feature-table">
+<tr>
+    <th>Feature</th>
+    <th>Priority</th>
+    <th>Description</th>
+</tr>
+
+<tr class="feature-missing">
+    <td>Server White-List</td>
+    <td>1</td>
+    <td>
+        A user should be able to limit the servers that can be specified in JNLP-files to download JVMs from. (Please note: the possibility to specify such a server in a JNLP-file is disabled by default.)
+    </td>
+</tr>
+<tr class="feature-missing">
+    <td>Logs cleanup</td>
+    <td>1</td>
+    <td>
+        The name and structure of the log-files need to be cleaned up. 
     </td>
 </tr>
 
